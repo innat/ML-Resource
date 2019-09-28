@@ -1,7 +1,10 @@
 # ML-ResourceNote
  
- ## About
-...added later! 
+## About
+We expose our online track public. Here, we share some of our attention space .... This is our personal tracking repo, so contents her may be updated frequently based on our interest in the field of Machine Learning and Data Science. 
+
+
+
 * Machine Learning 
    + Computer Vision
    + Natural Language Processing
@@ -10,6 +13,13 @@
    + Parallel Computing 
    + Cloud Computing
  
+ * Books 
+ * Course 
+ * Blogs 
+    + GitHub Geeks
+    + Stakcoverflow
+    + Medium Stars
+    + Quora
  
 ## Data Set
 
@@ -18,8 +28,6 @@
 * [Kaggle](https://www.kaggle.com/datasets)
 * [UCI Machine Learning Repository](http://mlr.cs.umass.edu/ml/)
 * [Academic Torrent](http://academictorrents.com/browse.php?cat=6)
-
-
 
 ## Table of Contents
 - [GitHub Geeks](#github-geeks)
