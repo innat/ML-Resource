@@ -60,8 +60,7 @@ We expose our online track public. Here, we share some of our attention space ..
 * [shaoanlu](https://github.com/shaoanlu)
 * 
 * [Eric Ma](https://github.com/ericmjl)
-* [Grant Sanderson](https://github.com/3b1b)
-* [Matthijs Hollemans](https://github.com/hollance)
+
 * [Andrej](https://github.com/karpathy)
 * [Matthijs Hollemans](https://github.com/hollance)
 * [Sebastian Raschka](https://github.com/rasbt)
@@ -85,30 +84,16 @@ We expose our online track public. Here, we share some of our attention space ..
 |-------------------|-------|
 |[Ian Goodfellow](https://github.com/goodfeli)        |ML Expert  |
 |[Michael Nielsen](https://github.com/mnielsen)             |ML Expert   |
+|[Grant Sanderson](https://github.com/3b1b)          |Math.  |
+|[Matthijs Hollemans](https://github.com/hollance)       |ML Expert   |
+|[Andrej](https://github.com/karpathy)      |ML Expert   |
+|[Alex J. Champandard](https://github.com/alexjc)              |ML Expert   |
+|[Piotr Migdał](https://github.com/stared)          |ML Expert   |
+|[Reiichiro Nakano](https://github.com/reiinakano)           |ML Expert   |
+|[Zhuang Liu](https://github.com/liuzhuang13) |ML Expert  |
 
 
-|Pneumonia          |0.6580  |
-
-
-|Pneumothorax       |0.7993   |
-
-
-|Consolidation      |0.7032   |
-
-
-|Edema              |0.8052   |
-
-
-|Emphysema          |0.8330   |
-
-
-|Fibrosis           |0.7859   |
-
-
-|Pleural Thickening |0.6835  |
-
-
-|Hernia             |0.8717   |
+|[Bolei Zhou](https://github.com/metalbubble?fbclid=IwAR29k07i9Vjs9Ay6ZXr4ZNLc0Wln-6ha6xAHXMs5K7OBqgkXlPxAZ7_jH0Y)             |ML Expert   |
 
 
 
