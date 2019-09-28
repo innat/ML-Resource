@@ -67,8 +67,8 @@ but rather to present the inner workings of them in a transparent and accessible
 * [Chip Huyen](https://github.com/chiphuyen)
 * [Akshay Bahadur](https://github.com/akshaybahadur21)
 * [Adam Geitgey](https://github.com/ageitgey)
-* [Ian Goodfellow](https://github.com/goodfeli)
-* [Ian Goodfellow](https://github.com/goodfeli)
+* [tarry.singh](https://github.com/TarrySingh)
+* [shaoanlu](https://github.com/shaoanlu)
 
 
 
