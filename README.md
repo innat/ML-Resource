@@ -60,9 +60,7 @@ We expose our online track public. Here, we share some of our attention space ..
 |[Piotr Migdał](https://github.com/stared)          |ML Expert   |
 |[Reiichiro Nakano](https://github.com/reiinakano)           |ML Expert   |
 |[Zhuang Liu](https://github.com/liuzhuang13) |ML Expert  |
-
-
-|[Bolei Zhou](https://github.com/metalbubble?fbclid=IwAR29k07i9Vjs9Ay6ZXr4ZNLc0Wln-6ha6xAHXMs5K7OBqgkXlPxAZ7_jH0Y)       |ML Expert   |
+|[Bolei Zhou](https://github.com/metalbubble?fbclid=IwAR29k07i9Vjs9Ay6ZXr4ZNLc0Wln-6ha6xAHXMs5K7OBqgkXlPxAZ7_jH0Y)       |ML Expert  |
 
 
 
