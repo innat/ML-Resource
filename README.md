@@ -89,11 +89,54 @@ We expose our online track public. Here, we share some of our attention space ..
 * [Bolei Zhou](https://github.com/metalbubble?fbclid=IwAR29k07i9Vjs9Ay6ZXr4ZNLc0Wln-6ha6xAHXMs5K7OBqgkXlPxAZ7_jH0Y)
 
 
-GitHub Profile           | Point of Interest  |
-|-------------:| -----:|
-[Marci](https://github.com/jmportilla) | [Udemy Instructure](https://www.udemy.com/user/joseportilla/) | [Udemy Instructure](https://www.udemy.com/user/joseportilla/) |
-| [Siraj Raval](https://github.com/llSourcell)      |   ML YouTuber |
-| [Harrison](https://github.com/Sentdex)      |    ML YouTuber |
+
+|       GitHub Profile            | Point of Interest  |
+|-------------------|-------|
+|[Marci](https://github.com/jmportilla)           |[Udemy Instructure](https://www.udemy.com/user/joseportilla/)|
+
+|[Siraj Raval](https://github.com/llSourcell)     | [ML YouTuber](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)   |
+
+
+|Atelectasis        |0.7003  |
+
+
+|Cardiomegaly       |0.8100  |
+
+
+|Effusion           |0.7585  |
+
+
+|Infiltration       |0.6614   |
+
+
+|Mass               |0.6933  |
+
+
+|Nodule             |0.6687   |
+
+
+|Pneumonia          |0.6580  |
+
+
+|Pneumothorax       |0.7993   |
+
+
+|Consolidation      |0.7032   |
+
+
+|Edema              |0.8052   |
+
+
+|Emphysema          |0.8330   |
+
+
+|Fibrosis           |0.7859   |
+
+
+|Pleural Thickening |0.6835  |
+
+
+|Hernia             |0.8717   |
 
 
 
