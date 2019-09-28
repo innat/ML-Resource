@@ -22,6 +22,7 @@ The purpose of this project is not to produce as optimized and computationally e
 but rather to present the inner workings of them in a transparent and accessible way.
 
 ## Table of Contents
+- [GitHub Geeks](#github-geeks)
 - [Machine Learning From Scratch](#machine-learning-from-scratch)
   * [About](#about)
   * [Table of Contents](#table-of-contents)
@@ -42,6 +43,31 @@ but rather to present the inner workings of them in a transparent and accessible
     + [Reinforcement Learning](#reinforcement-learning)
     + [Deep Learning](#deep-learning)
   * [Contact](#contact)
+
+
+## GitHub Geeks
+
+* [EvilPort](https://github.com/EvilPort2)
+* [James Le](https://github.com/khanhnamle1994)
+* [Bucky Roberts](https://github.com/buckyroberts)
+* [Marci](https://github.com/jmportilla)
+* [Siraj Raval](https://github.com/llSourcell)
+* [Naoki Shibuya](https://github.com/naokishibuya)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Installation
     $ git clone https://github.com/eriklindernoren/ML-From-Scratch
