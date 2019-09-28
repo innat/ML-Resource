@@ -88,6 +88,7 @@ but rather to present the inner workings of them in a transparent and accessible
 * [Benedek Rozemberczki](https://github.com/benedekrozemberczki)
 * [Pawan Kumar](https://github.com/iampawan)
 * [Zhuang Liu](https://github.com/liuzhuang13)
+* [Bolei Zhou](https://github.com/metalbubble?fbclid=IwAR29k07i9Vjs9Ay6ZXr4ZNLc0Wln-6ha6xAHXMs5K7OBqgkXlPxAZ7_jH0Y)
 
 
 
