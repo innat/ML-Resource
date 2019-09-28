@@ -58,9 +58,10 @@ but rather to present the inner workings of them in a transparent and accessible
 * [Harrison](https://github.com/Sentdex)
 * [Adit Deshpande](https://github.com/adeshpande3)
 * [Zed A. Shaw](https://github.com/zedshaw)
-
-
-
+* [Marcelo Rovai](https://github.com/Mjrovai)
+* [Wes McKinney](https://github.com/wesm)
+* [Denny Britz](https://github.com/dennybritz)
+* [Ian Goodfellow](https://github.com/goodfeli)
 
 
 
