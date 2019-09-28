@@ -49,15 +49,15 @@ We expose our online track public. Here, we share some of our attention space ..
 
 ## GitHub Geeks
 
-* Online Instructors
-   + [Marci](https://github.com/jmportilla)
+* Online Instructors and Consultants
+   + [Marci](https://github.com/jmportilla) | [Udemy Instructure](https://www.udemy.com/user/joseportilla/)
    + [Siraj Raval](https://github.com/llSourcell)
    + [Harrison](https://github.com/Sentdex)
 * [Michael Nielsen](https://github.com/mnielsen)
 * [Adit Deshpande](https://github.com/adeshpande3)
 * [Zed A. Shaw](https://github.com/zedshaw)
 * [Marcelo Rovai](https://github.com/Mjrovai)
-* [Wes McKinney](https://github.com/wesm)
+* [Wes McKinney](https://github.com/wesm) | Developer of [Pandas](https://pandas.pydata.org/)
 * [Denny Britz](https://github.com/dennybritz)
 * [Ian Goodfellow](https://github.com/goodfeli)
 * [Pierian Data](https://github.com/Pierian-Data)
