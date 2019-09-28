@@ -49,10 +49,7 @@ We expose our online track public. Here, we share some of our attention space ..
 
 ## GitHub Geeks
 
-* Online Instructors and Consultants
-   + [Marci](https://github.com/jmportilla) | [Udemy Instructure](https://www.udemy.com/user/joseportilla/)
-   + [Siraj Raval](https://github.com/llSourcell)
-   + [Harrison](https://github.com/Sentdex)
+
 * [Michael Nielsen](https://github.com/mnielsen)
 * [Adit Deshpande](https://github.com/adeshpande3)
 * [Zed A. Shaw](https://github.com/zedshaw)
@@ -61,8 +58,6 @@ We expose our online track public. Here, we share some of our attention space ..
 * [Denny Britz](https://github.com/dennybritz)
 * [Ian Goodfellow](https://github.com/goodfeli)
 * [Pierian Data](https://github.com/Pierian-Data)
-* [Hvass-Labs](https://github.com/Hvass-Labs)
-* [Chip Huyen](https://github.com/chiphuyen)
 * [Akshay Bahadur](https://github.com/akshaybahadur21)
 * [Adam Geitgey](https://github.com/ageitgey)
 * [tarry.singh](https://github.com/TarrySingh)
@@ -94,15 +89,9 @@ We expose our online track public. Here, we share some of our attention space ..
 |-------------------|-------|
 |[Marci](https://github.com/jmportilla)           |[Udemy Instructure](https://www.udemy.com/user/joseportilla/)|
 |[Siraj Raval](https://github.com/llSourcell)     |[ML YouTuber](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)|
-
-
-|Atelectasis        |0.7003  |
-
-
-|Cardiomegaly       |0.8100  |
-
-
-|Effusion           |0.7585  |
+|[Ian Goodfellow](https://github.com/goodfeli)        |Deep Learning Expert  |
+|[Hvass Laboratories](https://github.com/Hvass-Labs)       |[ML YouTuber](https://www.youtube.com/user/hvasslabs/featured)]  |
+|[Chip Huyen](https://github.com/chiphuyen)           |Deep Learning Expert  |
 
 
 |Infiltration       |0.6614   |
