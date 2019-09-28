@@ -49,37 +49,6 @@ We expose our online track public. Here, we share some of our attention space ..
 
 ## GitHub Geeks
 
-
-* [Michael Nielsen](https://github.com/mnielsen)
-* [Adit Deshpande](https://github.com/adeshpande3)
-* [Zed A. Shaw](https://github.com/zedshaw)
-* [Marcelo Rovai](https://github.com/Mjrovai)
-* [Wes McKinney](https://github.com/wesm) | Developer of [Pandas](https://pandas.pydata.org/)
-* [Denny Britz](https://github.com/dennybritz)
-* [Ian Goodfellow](https://github.com/goodfeli)
-* [shaoanlu](https://github.com/shaoanlu)
-* 
-* [Eric Ma](https://github.com/ericmjl)
-
-* [Andrej](https://github.com/karpathy)
-* [Matthijs Hollemans](https://github.com/hollance)
-* [Sebastian Raschka](https://github.com/rasbt)
-* [Huynh Ngoc Anh](https://github.com/experiencor)
-* [Alex J. Champandard](https://github.com/alexjc)
-* [Max Pumperla](https://github.com/maxpumperla)
-* [Octavio Arriaga](https://github.com/oarriaga?tab=overview&from=2018-09-01&to=2018-09-30)
-* [Erik Linder-Norén](https://github.com/eriklindernoren)
-* [Leon Chen](https://github.com/transcranial)
-* [Piotr Migdał](https://github.com/stared)
-* [Reiichiro Nakano](https://github.com/reiinakano)
-* [Alyssa Quek](https://github.com/alyssaq)
-* [Benedek Rozemberczki](https://github.com/benedekrozemberczki)
-* [Pawan Kumar](https://github.com/iampawan)
-* [Zhuang Liu](https://github.com/liuzhuang13)
-* [Bolei Zhou](https://github.com/metalbubble?fbclid=IwAR29k07i9Vjs9Ay6ZXr4ZNLc0Wln-6ha6xAHXMs5K7OBqgkXlPxAZ7_jH0Y)
-
-
-
 |       GitHub Profile            | Point of Interest  |
 |-------------------|-------|
 |[Ian Goodfellow](https://github.com/goodfeli)        |ML Expert  |
@@ -93,7 +62,7 @@ We expose our online track public. Here, we share some of our attention space ..
 |[Zhuang Liu](https://github.com/liuzhuang13) |ML Expert  |
 
 
-|[Bolei Zhou](https://github.com/metalbubble?fbclid=IwAR29k07i9Vjs9Ay6ZXr4ZNLc0Wln-6ha6xAHXMs5K7OBqgkXlPxAZ7_jH0Y)             |ML Expert   |
+|[Bolei Zhou](https://github.com/metalbubble?fbclid=IwAR29k07i9Vjs9Ay6ZXr4ZNLc0Wln-6ha6xAHXMs5K7OBqgkXlPxAZ7_jH0Y)       |ML Expert   |
 
 
 
