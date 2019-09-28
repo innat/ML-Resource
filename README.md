@@ -50,7 +50,8 @@ We expose our online track public. Here, we share some of our attention space ..
 ## GitHub Geeks
 
 * Online Instructors
- + [Marci](https://github.com/jmportilla)
+   + [Marci](https://github.com/jmportilla)
+   + [Siraj Raval](https://github.com/llSourcell)
 
 * Computer Vision
    +
@@ -58,7 +59,7 @@ We expose our online track public. Here, we share some of our attention space ..
    +
 
 
-* [Siraj Raval](https://github.com/llSourcell)
+* 
 * [Naoki Shibuya](https://github.com/naokishibuya)
 * [Ryan Zotti](https://github.com/RyanZotti)
 * [Michael Nielsen](https://github.com/mnielsen)
