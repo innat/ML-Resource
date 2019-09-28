@@ -4,22 +4,15 @@
 We expose our online track public. Here, we share some of our attention space .... This is our personal tracking repo, so contents her may be updated frequently based on our interest in the field of Machine Learning and Data Science. 
 
 
-
 * Machine Learning 
-   + Computer Vision
-   + Natural Language Processing
 * Big Data
-   + Data Science
-   + Parallel Computing 
-   + Cloud Computing
- 
- * Books 
- * Course 
- * Blogs 
-    + GitHub Geeks
-    + Stakcoverflow
-    + Medium Stars
-    + Quora
+* Books 
+* Course 
+* Blogs 
+   + GitHub Geeks
+   + Stakcoverflow
+   + Medium Stars
+   + Quora
  
 ## Data Set
 
