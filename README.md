@@ -57,12 +57,8 @@ We expose our online track public. Here, we share some of our attention space ..
 * [Wes McKinney](https://github.com/wesm) | Developer of [Pandas](https://pandas.pydata.org/)
 * [Denny Britz](https://github.com/dennybritz)
 * [Ian Goodfellow](https://github.com/goodfeli)
-* [Pierian Data](https://github.com/Pierian-Data)
-* [Akshay Bahadur](https://github.com/akshaybahadur21)
-* [Adam Geitgey](https://github.com/ageitgey)
-* [tarry.singh](https://github.com/TarrySingh)
 * [shaoanlu](https://github.com/shaoanlu)
-* [Kevin Markham](https://github.com/justmarkham)
+* 
 * [Eric Ma](https://github.com/ericmjl)
 * [Grant Sanderson](https://github.com/3b1b)
 * [Matthijs Hollemans](https://github.com/hollance)
@@ -89,15 +85,11 @@ We expose our online track public. Here, we share some of our attention space ..
 |-------------------|-------|
 |[Marci](https://github.com/jmportilla)           |[Udemy Instructure](https://www.udemy.com/user/joseportilla/)|
 |[Siraj Raval](https://github.com/llSourcell)     |[ML YouTuber](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)|
-|[Ian Goodfellow](https://github.com/goodfeli)        |Deep Learning Expert  |
+|[Ian Goodfellow](https://github.com/goodfeli)        |Machine Learning practitioner  |
 |[Hvass Laboratories](https://github.com/Hvass-Labs)       |[ML YouTuber](https://www.youtube.com/user/hvasslabs/featured)]  |
-|[Chip Huyen](https://github.com/chiphuyen)           |Deep Learning Expert  |
-
-
-|Infiltration       |0.6614   |
-
-
-|Mass               |0.6933  |
+|[Chip Huyen](https://github.com/chiphuyen)           |Machine Learning practitioner  |
+|[shaoanlu](https://github.com/shaoanlu)       |Machine Learning practitioner   |
+|[Kevin Markham](https://github.com/justmarkham)               |Machine Learning practitioner  |
 
 
 |Nodule             |0.6687   |
