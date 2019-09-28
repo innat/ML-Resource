@@ -53,7 +53,7 @@ We expose our online track public. Here, we share some of our attention space ..
 |-------------------|-------|
 |[Ian Goodfellow](https://github.com/goodfeli)        |ML Expert  |
 |[Michael Nielsen](https://github.com/mnielsen)             |ML Expert   |
-|[Grant Sanderson](https://github.com/3b1b)          |Math.  |
+|[Grant Sanderson](https://github.com/3b1b)          |Math Expert  |
 |[Matthijs Hollemans](https://github.com/hollance)       |ML Expert   |
 |[Andrej](https://github.com/karpathy)      |ML Expert   |
 |[Alex J. Champandard](https://github.com/alexjc)              |ML Expert   |
