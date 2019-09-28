@@ -83,13 +83,8 @@ We expose our online track public. Here, we share some of our attention space ..
 
 |       GitHub Profile            | Point of Interest  |
 |-------------------|-------|
-|[Ian Goodfellow](https://github.com/goodfeli)        |Machine Learning practitioner  |
-|[Chip Huyen](https://github.com/chiphuyen)           |Machine Learning practitioner  |
-|[shaoanlu](https://github.com/shaoanlu)       |Machine Learning practitioner   |
-|[Kevin Markham](https://github.com/justmarkham)               |Machine Learning practitioner  |
-
-
-|Nodule             |0.6687   |
+|[Ian Goodfellow](https://github.com/goodfeli)        |ML Expert  |
+|[Michael Nielsen](https://github.com/mnielsen)             |ML Expert   |
 
 
 |Pneumonia          |0.6580  |
