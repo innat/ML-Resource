@@ -49,13 +49,15 @@ We expose our online track public. Here, we share some of our attention space ..
 
 ## GitHub Geeks
 
+* Online Instructors
+ + [Marci](https://github.com/jmportilla)
+
 * Computer Vision
    +
    +
    +
 
-* [Bucky Roberts](https://github.com/buckyroberts)
-* [Marci](https://github.com/jmportilla)
+
 * [Siraj Raval](https://github.com/llSourcell)
 * [Naoki Shibuya](https://github.com/naokishibuya)
 * [Ryan Zotti](https://github.com/RyanZotti)
