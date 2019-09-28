@@ -51,11 +51,11 @@ We expose our online track public. Here, we share some of our attention space ..
 
 |       GitHub Profile            | Point of Interest  | Interested Projects |
 |-------------------|-------|-------|
-|[Ian Goodfellow](https://github.com/goodfeli)        |ML Expert  |Something |
-|[Michael Nielsen](https://github.com/mnielsen)             |ML Expert   |Something |
-|[Grant Sanderson](https://github.com/3b1b)          |Math Expert  |Something |
-|[Matthijs Hollemans](https://github.com/hollance)       |ML Expert   |Something |
-|[Andrej](https://github.com/karpathy)      |ML Expert   |Something |
+|[Ian Goodfellow](https://github.com/goodfeli)        |ML Expert  |[GAN](https://github.com/goodfeli/adversarial) |
+|[Michael Nielsen](https://github.com/mnielsen)             |ML Expert   |[Neural Networks and Deep Learning](https://github.com/mnielsen/neural-networks-and-deep-learning) |
+|[Grant Sanderson](https://github.com/3b1b)          |Math Expert  |[https://github.com/3b1b/manim](Animation Engin for Math) |
+|[Matthijs Hollemans](https://github.com/hollance)       |ML Expert   |[Forge](https://github.com/hollance/Forge) |
+|[Andrej](https://github.com/karpathy)      |ML Expert   |[ReinforceJs](https://github.com/karpathy/reinforcejs) |
 |[Alex J. Champandard](https://github.com/alexjc)              |ML Expert   |Something |
 |[Piotr Migdał](https://github.com/stared)          |ML Expert   |Something |
 |[Reiichiro Nakano](https://github.com/reiinakano)           |ML Expert   |Something |
