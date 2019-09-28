@@ -89,11 +89,11 @@ We expose our online track public. Here, we share some of our attention space ..
 * [Bolei Zhou](https://github.com/metalbubble?fbclid=IwAR29k07i9Vjs9Ay6ZXr4ZNLc0Wln-6ha6xAHXMs5K7OBqgkXlPxAZ7_jH0Y)
 
 
-| People        | GitHub Profile           | Point of Interest  |
-| ------------- |:-------------:| -----:|
-| Marci      | [Marci](https://github.com/jmportilla) | [Udemy Instructure](https://www.udemy.com/user/joseportilla/) | [Udemy Instructure](https://www.udemy.com/user/joseportilla/) |
-| Siraj Raval      | [Siraj Raval](https://github.com/llSourcell)      |   ML YouTuber |
-| Harrison | [Harrison](https://github.com/Sentdex)      |    ML YouTuber |
+GitHub Profile           | Point of Interest  |
+|-------------:| -----:|
+[Marci](https://github.com/jmportilla) | [Udemy Instructure](https://www.udemy.com/user/joseportilla/) | [Udemy Instructure](https://www.udemy.com/user/joseportilla/) |
+| [Siraj Raval](https://github.com/llSourcell)      |   ML YouTuber |
+| [Harrison](https://github.com/Sentdex)      |    ML YouTuber |
 
 
 
