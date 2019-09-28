@@ -93,7 +93,6 @@ We expose our online track public. Here, we share some of our attention space ..
 |       GitHub Profile            | Point of Interest  |
 |-------------------|-------|
 |[Marci](https://github.com/jmportilla)           |[Udemy Instructure](https://www.udemy.com/user/joseportilla/)|
-
 |[Siraj Raval](https://github.com/llSourcell)     |[ML YouTuber](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)|
 
 
