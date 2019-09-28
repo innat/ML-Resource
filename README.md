@@ -79,9 +79,15 @@ but rather to present the inner workings of them in a transparent and accessible
 * [Huynh Ngoc Anh](https://github.com/experiencor)
 * [Alex J. Champandard](https://github.com/alexjc)
 * [Max Pumperla](https://github.com/maxpumperla)
-
-
-
+* [Octavio Arriaga](https://github.com/oarriaga?tab=overview&from=2018-09-01&to=2018-09-30)
+* [Erik Linder-Norén](https://github.com/eriklindernoren)
+* [Leon Chen](https://github.com/transcranial)
+* [Piotr Migdał](https://github.com/stared)
+* [Reiichiro Nakano](https://github.com/reiinakano)
+* [Alyssa Quek](https://github.com/alyssaq)
+* [Benedek Rozemberczki](https://github.com/benedekrozemberczki)
+* [Pawan Kumar](https://github.com/iampawan)
+* [Zhuang Liu](https://github.com/liuzhuang13)
 
 
 
