@@ -49,8 +49,11 @@ We expose our online track public. Here, we share some of our attention space ..
 
 ## GitHub Geeks
 
-* [EvilPort](https://github.com/EvilPort2)
-* [James Le](https://github.com/khanhnamle1994)
+* Computer Vision
+   +
+   +
+   +
+
 * [Bucky Roberts](https://github.com/buckyroberts)
 * [Marci](https://github.com/jmportilla)
 * [Siraj Raval](https://github.com/llSourcell)
