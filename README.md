@@ -65,8 +65,8 @@ but rather to present the inner workings of them in a transparent and accessible
 * [Pierian Data](https://github.com/Pierian-Data)
 * [Hvass-Labs](https://github.com/Hvass-Labs)
 * [Chip Huyen](https://github.com/chiphuyen)
-* [Ian Goodfellow](https://github.com/goodfeli)
-* [Ian Goodfellow](https://github.com/goodfeli)
+* [Akshay Bahadur](https://github.com/akshaybahadur21)
+* [Adam Geitgey](https://github.com/ageitgey)
 * [Ian Goodfellow](https://github.com/goodfeli)
 * [Ian Goodfellow](https://github.com/goodfeli)
 
