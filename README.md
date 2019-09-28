@@ -4,41 +4,11 @@
 We expose our online track public. Here, we share some of our attention space .... This is our personal tracking repo, so contents her may be updated frequently based on our interest in the field of Machine Learning and Data Science. 
 
 
-* Machine Learning 
-* Big Data
-
-* Books 
-* Course 
-* Blogs 
-   + GitHub Geeks
-   + Stakcoverflow
-   + Medium Stars
-   + Quora
- 
 
 ## Table of Contents
 - [GitHub Geeks](#github-geeks)
 - [Data Set Collection](#data-set)
 - [Book Materials](#book-materials)
-- [Machine Learning From Scratch](#machine-learning-from-scratch)
-  * [About](#about)
-  * [Table of Contents](#table-of-contents)
-  * [Installation](#installation)
-  * [Examples](#examples)
-    + [Polynomial Regression](#polynomial-regression)
-    + [Classification With CNN](#classification-with-cnn)
-    + [Density-Based Clustering](#density-based-clustering)
-    + [Generating Handwritten Digits](#generating-handwritten-digits)
-    + [Deep Reinforcement Learning](#deep-reinforcement-learning)
-    + [Image Reconstruction With RBM](#image-reconstruction-with-rbm)
-    + [Evolutionary Evolved Neural Network](#evolutionary-evolved-neural-network)
-    + [Genetic Algorithm](#genetic-algorithm)
-    + [Association Analysis](#association-analysis)
-  * [Implementations](#implementations)
-    + [Supervised Learning](#supervised-learning)
-    + [Unsupervised Learning](#unsupervised-learning)
-    + [Reinforcement Learning](#reinforcement-learning)
-    + [Deep Learning](#deep-learning)
   * [Contact](#contact)
 
 ## Book Materials
