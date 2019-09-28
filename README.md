@@ -19,6 +19,7 @@ We expose our online track public. Here, we share some of our attention space ..
 ## Table of Contents
 - [GitHub Geeks](#github-geeks)
 - [Data Set Collection](#data-set)
+- [Book Materials](#book-materials)
 - [Machine Learning From Scratch](#machine-learning-from-scratch)
   * [About](#about)
   * [Table of Contents](#table-of-contents)
@@ -39,6 +40,22 @@ We expose our online track public. Here, we share some of our attention space ..
     + [Reinforcement Learning](#reinforcement-learning)
     + [Deep Learning](#deep-learning)
   * [Contact](#contact)
+
+## Book Materials
+* Machine Learning 
+   + [Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291)
+   + [Python Machine Learning](https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka-ebook/dp/B00YSILNL0)
+   + [The Hundred-Page Machine Learning Book](https://www.amazon.com/Hundred-Page-Machine-Learning-Book/dp/199957950X)
+* Deep Learning 
+  + [Deep Learning](https://www.deeplearningbook.org/) 
+  + [Deep Learning with Python](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438)
+  + [Deep Learning for Computer Vision with Python](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/)
+* Big Data
+  + ed
+  + ew
+* Mathematics
+  + 
+  + 
 
 
 ## Data Set
