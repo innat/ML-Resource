@@ -94,7 +94,7 @@ We expose our online track public. Here, we share some of our attention space ..
 |-------------------|-------|
 |[Marci](https://github.com/jmportilla)           |[Udemy Instructure](https://www.udemy.com/user/joseportilla/)|
 
-|[Siraj Raval](https://github.com/llSourcell)     | [ML YouTuber](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)   |
+|[Siraj Raval](https://github.com/llSourcell)     |[ML YouTuber](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)|
 
 
 |Atelectasis        |0.7003  |
