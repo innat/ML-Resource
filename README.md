@@ -52,18 +52,8 @@ We expose our online track public. Here, we share some of our attention space ..
 * Online Instructors
    + [Marci](https://github.com/jmportilla)
    + [Siraj Raval](https://github.com/llSourcell)
-
-* Computer Vision
-   +
-   +
-   +
-
-
-* 
-* [Naoki Shibuya](https://github.com/naokishibuya)
-* [Ryan Zotti](https://github.com/RyanZotti)
+   + [Harrison](https://github.com/Sentdex)
 * [Michael Nielsen](https://github.com/mnielsen)
-* [Harrison](https://github.com/Sentdex)
 * [Adit Deshpande](https://github.com/adeshpande3)
 * [Zed A. Shaw](https://github.com/zedshaw)
 * [Marcelo Rovai](https://github.com/Mjrovai)
