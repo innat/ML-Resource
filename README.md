@@ -69,6 +69,18 @@ but rather to present the inner workings of them in a transparent and accessible
 * [Adam Geitgey](https://github.com/ageitgey)
 * [tarry.singh](https://github.com/TarrySingh)
 * [shaoanlu](https://github.com/shaoanlu)
+* [Kevin Markham](https://github.com/justmarkham)
+* [Eric Ma](https://github.com/ericmjl)
+* [Grant Sanderson](https://github.com/3b1b)
+* [Matthijs Hollemans](https://github.com/hollance)
+* [Andrej](https://github.com/karpathy)
+* [Matthijs Hollemans](https://github.com/hollance)
+* [Sebastian Raschka](https://github.com/rasbt)
+* [Huynh Ngoc Anh](https://github.com/experiencor)
+* [Alex J. Champandard](https://github.com/alexjc)
+* [Max Pumperla](https://github.com/maxpumperla)
+
+
 
 
 
