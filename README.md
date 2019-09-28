@@ -15,16 +15,10 @@ We expose our online track public. Here, we share some of our attention space ..
    + Medium Stars
    + Quora
  
-## Data Set
-
-**Data Set Finder**
-* [Google Dataset Search](https://toolbox.google.com/datasetsearch)
-* [Kaggle](https://www.kaggle.com/datasets)
-* [UCI Machine Learning Repository](http://mlr.cs.umass.edu/ml/)
-* [Academic Torrent](http://academictorrents.com/browse.php?cat=6)
 
 ## Table of Contents
 - [GitHub Geeks](#github-geeks)
+- [Data Set Collection](#data-set)
 - [Machine Learning From Scratch](#machine-learning-from-scratch)
   * [About](#about)
   * [Table of Contents](#table-of-contents)
@@ -46,6 +40,12 @@ We expose our online track public. Here, we share some of our attention space ..
     + [Deep Learning](#deep-learning)
   * [Contact](#contact)
 
+
+## Data Set
+* [Google Dataset Search](https://toolbox.google.com/datasetsearch)
+* [Kaggle](https://www.kaggle.com/datasets)
+* [UCI Machine Learning Repository](http://mlr.cs.umass.edu/ml/)
+* [Academic Torrent](http://academictorrents.com/browse.php?cat=6)
 
 ## GitHub Geeks
 We include a very few amount of our favorite GitHub Geeks. 
