@@ -62,11 +62,13 @@ but rather to present the inner workings of them in a transparent and accessible
 * [Wes McKinney](https://github.com/wesm)
 * [Denny Britz](https://github.com/dennybritz)
 * [Ian Goodfellow](https://github.com/goodfeli)
-
-
-
-
-
+* [Pierian Data](https://github.com/Pierian-Data)
+* [Hvass-Labs](https://github.com/Hvass-Labs)
+* [Chip Huyen](https://github.com/chiphuyen)
+* [Ian Goodfellow](https://github.com/goodfeli)
+* [Ian Goodfellow](https://github.com/goodfeli)
+* [Ian Goodfellow](https://github.com/goodfeli)
+* [Ian Goodfellow](https://github.com/goodfeli)
 
 
 
