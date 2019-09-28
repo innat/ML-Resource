@@ -48,6 +48,7 @@ We expose our online track public. Here, we share some of our attention space ..
 
 
 ## GitHub Geeks
+We include a very few amount of our favorite GitHub Geeks. 
 
 |       GitHub Profile            | Point of Interest  | Interested Projects |
 |-------------------|-------|-------|
