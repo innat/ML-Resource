@@ -49,18 +49,18 @@ We expose our online track public. Here, we share some of our attention space ..
 
 ## GitHub Geeks
 
-|       GitHub Profile            | Point of Interest  |
-|-------------------|-------|
-|[Ian Goodfellow](https://github.com/goodfeli)        |ML Expert  |
-|[Michael Nielsen](https://github.com/mnielsen)             |ML Expert   |
-|[Grant Sanderson](https://github.com/3b1b)          |Math Expert  |
-|[Matthijs Hollemans](https://github.com/hollance)       |ML Expert   |
-|[Andrej](https://github.com/karpathy)      |ML Expert   |
-|[Alex J. Champandard](https://github.com/alexjc)              |ML Expert   |
-|[Piotr Migdał](https://github.com/stared)          |ML Expert   |
-|[Reiichiro Nakano](https://github.com/reiinakano)           |ML Expert   |
-|[Zhuang Liu](https://github.com/liuzhuang13) |ML Expert  |
-|[Bolei Zhou](https://github.com/metalbubble?fbclid=IwAR29k07i9Vjs9Ay6ZXr4ZNLc0Wln-6ha6xAHXMs5K7OBqgkXlPxAZ7_jH0Y)       |ML Expert  |
+|       GitHub Profile            | Point of Interest  | Interested Projects |
+|-------------------|-------|-------|
+|[Ian Goodfellow](https://github.com/goodfeli)        |ML Expert  |Something |
+|[Michael Nielsen](https://github.com/mnielsen)             |ML Expert   |Something |
+|[Grant Sanderson](https://github.com/3b1b)          |Math Expert  |Something |
+|[Matthijs Hollemans](https://github.com/hollance)       |ML Expert   |Something |
+|[Andrej](https://github.com/karpathy)      |ML Expert   |Something |
+|[Alex J. Champandard](https://github.com/alexjc)              |ML Expert   |Something |
+|[Piotr Migdał](https://github.com/stared)          |ML Expert   |Something |
+|[Reiichiro Nakano](https://github.com/reiinakano)           |ML Expert   |Something |
+|[Zhuang Liu](https://github.com/liuzhuang13) |ML Expert  |Something |
+|[Bolei Zhou](https://github.com/metalbubble?fbclid=IwAR29k07i9Vjs9Ay6ZXr4ZNLc0Wln-6ha6xAHXMs5K7OBqgkXlPxAZ7_jH0Y)       |ML Expert  |Something |
 
 
 
