@@ -53,10 +53,11 @@ but rather to present the inner workings of them in a transparent and accessible
 * [Marci](https://github.com/jmportilla)
 * [Siraj Raval](https://github.com/llSourcell)
 * [Naoki Shibuya](https://github.com/naokishibuya)
-
-
-
-
+* [Ryan Zotti](https://github.com/RyanZotti)
+* [Michael Nielsen](https://github.com/mnielsen)
+* [Harrison](https://github.com/Sentdex)
+* [Adit Deshpande](https://github.com/adeshpande3)
+* [Zed A. Shaw](https://github.com/zedshaw)
 
 
 
