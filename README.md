@@ -1,5 +1,5 @@
 # ML-Bookmarks
-A concise ML Bookmarks Repository.
+A concise Bookmarks of ML Repository.
 
 ## Table of Contents
 - [Data Set](#data-set)
