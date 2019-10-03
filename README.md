@@ -1,4 +1,4 @@
-# ML-ResourceNote
+# ML-Bookmarks
 A concise ML Bookmarks Repository.
 
 ## Table of Contents
