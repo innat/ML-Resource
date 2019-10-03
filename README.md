@@ -38,7 +38,7 @@ A concise ml-repository.
 We include a very few amount of our favorite GitHub Geeks. 
 
 | Interested Projects | Research Paper |
-|-------|
+|-------|-------
 |[GAN](https://github.com/goodfeli/adversarial) | - |
 |[Animation Engin for Math](https://github.com/3b1b/manim) | - |
 |[Forge](https://github.com/hollance/Forge) | - |
