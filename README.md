@@ -115,7 +115,7 @@ We include a very few amount of our favorite GitHub Geeks.
 |[Sketch Code](https://github.com/ashnkumar/sketch-code) | - | [Doc](https://blog.insightdatascience.com/automated-front-end-development-using-deep-learning-3169dd086e82) |
 
 ## Kaggle
-**[Competition](#competition)**
+**Competition**
    - For Beginners
       + [Titanic: Machine Learning from Disaster | Classification](https://www.kaggle.com/c/titanic)
       + [House Prices: Advanced Regression Techniques | Regression](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
