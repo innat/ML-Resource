@@ -8,7 +8,6 @@ A concise ML Bookmarks Repository.
 - [Research Papers](#research-paper)
 - [GitHub](#github)
 - [Kaggle](#kaggle)
-- [Stack Overflow](#stack-overflow)
 - [Best Blog](#best-blog)
 - [YouTube Star](#youtube-star)
 
@@ -123,13 +122,15 @@ We include a very few amount of our favorite GitHub Geeks.
       + [Toxic Comment Classification Challenge | NLP](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)
       + [Credit Card Fraud Detection | NLP](https://www.kaggle.com/mlg-ulb/creditcardfraud/kernels)
 
-## Stack Overflow
-- 
-- 
-
 ## Best Blog
--
--
+- [cleverhans](http://www.cleverhans.io/) | About: Security and privacy in machine learning.
+- [Andrej Karpathy](https://karpathy.github.io/)
+- [Kevin](https://kevinzakka.github.io/)
+- [Arthur Juliani](https://medium.com/@awjuliani)
+- [colah](https://colah.github.io/)
+- [Michael Nielsen](http://michaelnielsen.org/)
+- [Scalable. Interactive. Interpretable](https://poloclub.github.io/)
+
 
 ## YouTube Star
 -
