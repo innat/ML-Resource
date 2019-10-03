@@ -74,6 +74,7 @@ A concise ML Bookmarks Repository.
    + [Python for Computer Vision with OpenCV and Deep Learning | Udemy](https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/)
    + [Deep Learning Computer Vision™ CNN, OpenCV, YOLO, SSD & GANs | Udemy](https://www.udemy.com/course/master-deep-learning-computer-visiontm-cnn-ssd-yolo-gans/)
    + [TensorFlow 2.0 | Udemy](https://www.udemy.com/course/tensorflow-2/)
+   
 **Data Science**
    + [Python for Data Science | edX](https://www.edx.org/course/python-for-data-science-3)
    + [Big Data Specialization | Coursera](https://www.coursera.org/specializations/big-data)
