@@ -5,9 +5,10 @@ A concise ml-repository.
 
 ## Table of Contents
 - [Kaggle](#kaggle)
-- [GitHub Projects](#github-projects)
-- [Data Set Collection](#data-set)
+- [GitHub](#github)
+- [Data Set](#data-set)
 - [Book Materials](#book-materials)
+- [Stack Overflow](#stack-overflow)
 - [Contact](#contact)
 
 ## Book Materials
@@ -34,7 +35,7 @@ A concise ml-repository.
 * [UCI Machine Learning Repository](http://mlr.cs.umass.edu/ml/)
 * [Academic Torrent](http://academictorrents.com/browse.php?cat=6)
 
-## GitHub Projects
+## GitHub 
 We include a very few amount of our favorite GitHub Geeks. 
 
 | Interested Projects | Research Paper | Best Blogs |
@@ -54,7 +55,9 @@ We include a very few amount of our favorite GitHub Geeks.
 - [Notebooks](#notebooks)
 - [Discussion](#discussions)
 
-
+## Stack Overflow
+- 
+- 
 
 ## Installation
     $ git clone https://github.com/eriklindernoren/ML-From-Scratch
