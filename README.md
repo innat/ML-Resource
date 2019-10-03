@@ -129,7 +129,7 @@ We include a very few amount of our favorite GitHub Geeks.
 - [Arthur Juliani](https://medium.com/@awjuliani)
 - [colah](https://colah.github.io/)
 - [Michael Nielsen](http://michaelnielsen.org/)
-- [Scalable. Interactive. Interpretable](https://poloclub.github.io/)
+- [Polo Club of Data Science](https://poloclub.github.io/)
 
 
 ## YouTube Star
