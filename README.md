@@ -1,7 +1,5 @@
 # ML-ResourceNote
- 
-## About
-A concise ml-repository.
+A concise ML Bookmarks Repository.
 
 ## Table of Contents
 - [Data Set](#data-set)
