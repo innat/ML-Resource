@@ -4,11 +4,13 @@
 A concise ml-repository.
 
 ## Table of Contents
-- [Kaggle](#kaggle)
-- [GitHub](#github)
 - [Data Set](#data-set)
 - [Book Materials](#book-materials)
+- [Online Course](#online-course)
+- [GitHub](#github)
+- [Kaggle](#kaggle)
 - [Stack Overflow](#stack-overflow)
+- [Best Blog](#best-blog)
 - [Contact](#contact)
 
 ## Book Materials
