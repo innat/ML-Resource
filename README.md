@@ -19,7 +19,7 @@ A concise ML Bookmarks Repository.
 * [Academic Torrent](http://academictorrents.com/browse.php?cat=6)
 
 ## Book Materials
-* Machine Learning 
+ Machine Learning 
    + [Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291)
    + [Python Machine Learning](https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka-ebook/dp/B00YSILNL0)
    + [The Hundred-Page Machine Learning Book](https://www.amazon.com/Hundred-Page-Machine-Learning-Book/dp/199957950X)
@@ -35,9 +35,8 @@ A concise ML Bookmarks Repository.
   + [Learning Spark: Lightning-Fast Big Data Analysis](https://www.amazon.com/Learning-Spark-Lightning-Fast-Data-Analysis/dp/1449358624)
   + [High Performance Spark: Best Practices for Scaling and Optimizing Apache Spark](https://www.amazon.com/High-Performance-Spark-Practices-Optimizing/dp/1491943203)
 
-
 ## Online Course
-* Machine Learning
+### Machine Learning
    + [ML | Coursera](https://www.coursera.org/learn/machine-learning/)
    + [ML Specialization | Coursera](https://www.coursera.org/specializations/machine-learning)
       + ML Foundations: A Case Study Approach
@@ -59,7 +58,7 @@ A concise ML Bookmarks Repository.
    + [ML A-Z™ | Udemy](https://www.udemy.com/course/machinelearning/)
    + [ML with Javascript | Udemy](https://www.udemy.com/course/machine-learning-with-javascript/)
    
-* Deep Learning
+### Deep Learning
    + [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
       + Neural Networks and Deep Learning
       + Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
@@ -73,7 +72,7 @@ A concise ML Bookmarks Repository.
    + [Python for Computer Vision with OpenCV and Deep Learning](https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/)
    + [Deep Learning Computer Vision™ CNN, OpenCV, YOLO, SSD & GANs](https://www.udemy.com/course/master-deep-learning-computer-visiontm-cnn-ssd-yolo-gans/)
    + [TensorFlow 2.0](https://www.udemy.com/course/tensorflow-2/)
-* Data Science
+### Data Science
    + [Python for Data Science | edX](https://www.edx.org/course/python-for-data-science-3)
    + [Big Data Specialization | Coursera](https://www.coursera.org/specializations/big-data)
       + Introduction to Big Data
