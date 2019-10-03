@@ -38,37 +38,48 @@ A concise ML Bookmarks Repository.
 
 ## Online Course
 * Machine Learning
-   + [Machine Learning | Coursera](https://www.coursera.org/learn/machine-learning/)
-   + [Machine Learning Specialization | Coursera](https://www.coursera.org/specializations/machine-learning)
-      + Machine Learning Foundations: A Case Study Approach
-      + Machine Learning: Regression
-      + Machine Learning: Classification
-      + Machine Learning: Clustering & Retrieval
-   + [Mathematics for Machine Learning Specialization | Coursera](https://www.coursera.org/specializations/mathematics-machine-learning?ranMID=40328&ranEAID=vedj0cWlu2Y&ranSiteID=vedj0cWlu2Y-WSA3NztyauBNjsUsiUfg3w&siteID=vedj0cWlu2Y-WSA3NztyauBNjsUsiUfg3w&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=vedj0cWlu2Y)
-      + Mathematics for Machine Learning: Linear Algebra
-      + Mathematics for Machine Learning: Multivariate Calculus
-      + Mathematics for Machine Learning: PCA
+   + [ML | Coursera](https://www.coursera.org/learn/machine-learning/)
+   + [ML Specialization | Coursera](https://www.coursera.org/specializations/machine-learning)
+      + ML Foundations: A Case Study Approach
+      + ML: Regression
+      + ML: Classification
+      + ML: Clustering & Retrieval
+   + [Mathematics for ML Specialization | Coursera](https://www.coursera.org/specializations/mathematics-machine-learning?ranMID=40328&ranEAID=vedj0cWlu2Y&ranSiteID=vedj0cWlu2Y-WSA3NztyauBNjsUsiUfg3w&siteID=vedj0cWlu2Y-WSA3NztyauBNjsUsiUfg3w&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=vedj0cWlu2Y)
+      + Mathematics for ML: Linear Algebra
+      + Mathematics for ML: Multivariate Calculus
+      + Mathematics for ML: PCA
    + [Advanced Machine Learning with TensorFlow on Google Cloud Platform Specialization | Coursera](https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp)
-      + End-to-End Machine Learning with TensorFlow on GCP
-      + Production Machine Learning Systems
+      + End-to-End ML with TensorFlow on GCP
+      + Production ML Systems
       + Image Understanding with TensorFlow on GCP
-      + Sequence Models for Time Series and Natural Language Processing
-   + [Applying Machine Learning to your Data with GCP](https://www.coursera.org/learn/data-insights-gcp-apply-ml)
-   + [Machine Learning Fundamentals | edX](https://www.edx.org/course/machine-learning-fundamentals-4)
-   + [Intro to Machine Learning | Udacity](https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229?cjevent=50ab2edde60811e98252008a0a18050d)
-   + [Machine Learning A-Z™ | Udemy](https://www.udemy.com/course/machinelearning/)
-   + [Machine Learning with Javascript | Udemy](https://www.udemy.com/course/machine-learning-with-javascript/)
+      + Sequence Models for Time Series and NLP
+   + [Applying ML to your Data with GCP](https://www.coursera.org/learn/data-insights-gcp-apply-ml)
+   + [ML Fundamentals | edX](https://www.edx.org/course/machine-learning-fundamentals-4)
+   + [Intro to ML | Udacity](https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229?cjevent=50ab2edde60811e98252008a0a18050d)
+   + [ML A-Z™ | Udemy](https://www.udemy.com/course/machinelearning/)
+   + [ML with Javascript | Udemy](https://www.udemy.com/course/machine-learning-with-javascript/)
 * Deep Learning
    
 * Data Science
-   + [Google Cloud Platform Big Data and Machine Learning Fundamentals](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals)
-   + [Modern Big Data Analysis with SQL Specialization](https://www.coursera.org/specializations/cloudera-big-data-analysis-sql)
+   + [Python for Data Science | edX](https://www.edx.org/course/python-for-data-science-3)
+   + [Big Data Specialization](https://www.coursera.org/specializations/big-data)
+      + Introduction to Big Data
+      + Big Data Modeling and Management Systems
+      + Big Data Integration and Processing
+      + ML With Big Data
+      + Graph Analytics for Big Data
+      + Big Data - Capstone Project
+   + [Data Engineering, Big Data, and ML on GCP Specialization | Coursera](https://www.coursera.org/specializations/gcp-data-machine-learning)
+      + Google Cloud Platform Big Data and Machine Learning Fundamentals
+      + Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform
+      + Serverless Data Analysis with Google BigQuery and Cloud Dataflow
+      + Serverless Machine Learning with Tensorflow on Google Cloud Platform
+      + Building Resilient Streaming Systems on Google Cloud Platform
+   + [Modern Big Data Analysis with SQL Specialization | Coursera](https://www.coursera.org/specializations/cloudera-big-data-analysis-sql)
       + Foundations for Big Data Analysis with SQL
       + Analyzing Big Data with SQL
       + Managing Big Data in Clusters and Cloud Storage
-
-
--
+   + [Python for Data Science and Machine Learning Bootcamp | Udemy](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) 
 
 ## Research Papers
 -
