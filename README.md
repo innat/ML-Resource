@@ -8,7 +8,7 @@ A concise ml-repository.
 - [GitHub Projects](#github-projects)
 - [Data Set Collection](#data-set)
 - [Book Materials](#book-materials)
-  * [Contact](#contact)
+- [Contact](#contact)
 
 ## Book Materials
 * Machine Learning 
@@ -37,19 +37,24 @@ A concise ml-repository.
 ## GitHub Projects
 We include a very few amount of our favorite GitHub Geeks. 
 
-| Interested Projects |
+| Interested Projects | Research Paper |
 |-------|
-|[GAN](https://github.com/goodfeli/adversarial) |
-|[Animation Engin for Math](https://github.com/3b1b/manim) |
-|[Forge](https://github.com/hollance/Forge) |
-|[ReinforceJs](https://github.com/karpathy/reinforcejs) |
-|[Neural-Doodle](https://github.com/alexjc/neural-doodle) |
-|[Quantum-Game](https://github.com/stared/quantum-game) |
-|[Xcessiv](https://github.com/reiinakano/xcessiv) |
-|[DenseNet](https://github.com/liuzhuang13/DenseNet) |
-|[CAM](https://github.com/metalbubble/CAM) |
+|[GAN](https://github.com/goodfeli/adversarial) | - |
+|[Animation Engin for Math](https://github.com/3b1b/manim) | - |
+|[Forge](https://github.com/hollance/Forge) | - |
+|[ReinforceJs](https://github.com/karpathy/reinforcejs) | - |
+|[Neural-Doodle](https://github.com/alexjc/neural-doodle) | - |
+|[Quantum-Game](https://github.com/stared/quantum-game) | - |
+|[Xcessiv](https://github.com/reiinakano/xcessiv) | - | 
+|[DenseNet](https://github.com/liuzhuang13/DenseNet) | - |
+|[CAM](https://github.com/metalbubble/CAM) | - |
 
 ## Kaggle
+- [Competition](#competition)
+- [Notebooks](#notebooks)
+- [Discussion](#discussions)
+
+
 
 ## Installation
     $ git clone https://github.com/eriklindernoren/ML-From-Scratch
