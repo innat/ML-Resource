@@ -41,6 +41,11 @@ A concise ML Bookmarks Repository.
    + [Machine Learning | Coursera](https://www.coursera.org/learn/machine-learning/)
    + [Machine Learning Specialization | Coursera](https://www.coursera.org/specializations/machine-learning)
    + [Mathematics for Machine Learning Specialization | Coursera](https://www.coursera.org/specializations/mathematics-machine-learning?ranMID=40328&ranEAID=vedj0cWlu2Y&ranSiteID=vedj0cWlu2Y-WSA3NztyauBNjsUsiUfg3w&siteID=vedj0cWlu2Y-WSA3NztyauBNjsUsiUfg3w&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=vedj0cWlu2Y)
+   + [Advanced Machine Learning with TensorFlow on Google Cloud Platform Specialization | Coursera](https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp)
+      + End-to-End Machine Learning with TensorFlow on GCP
+      + Production Machine Learning Systems
+      + Image Understanding with TensorFlow on GCP
+      + Sequence Models for Time Series and Natural Language Processing
    + [Applying Machine Learning to your Data with GCP](https://www.coursera.org/learn/data-insights-gcp-apply-ml)
    + [Machine Learning Fundamentals | edX](https://www.edx.org/course/machine-learning-fundamentals-4)
    + [Intro to Machine Learning | Udacity](https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229?cjevent=50ab2edde60811e98252008a0a18050d)
@@ -50,7 +55,10 @@ A concise ML Bookmarks Repository.
    
 * Data Science
    + [Google Cloud Platform Big Data and Machine Learning Fundamentals](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals)
-   + []()
+   + [Modern Big Data Analysis with SQL Specialization](https://www.coursera.org/specializations/cloudera-big-data-analysis-sql)
+      + Foundations for Big Data Analysis with SQL
+      + Analyzing Big Data with SQL
+      + Managing Big Data in Clusters and Cloud Storage
 
 
 -
