@@ -1,11 +1,10 @@
 # ML-ResourceNote
  
 ## About
-A small concise repository for great works.
-
-
+A concise ml-repository.
 
 ## Table of Contents
+- [Kaggle](#kaggle)
 - [GitHub Projects](#github-projects)
 - [Data Set Collection](#data-set)
 - [Book Materials](#book-materials)
@@ -50,7 +49,7 @@ We include a very few amount of our favorite GitHub Geeks.
 |[DenseNet](https://github.com/liuzhuang13/DenseNet) |
 |[CAM](https://github.com/metalbubble/CAM) |
 
-
+## Kaggle
 
 ## Installation
     $ git clone https://github.com/eriklindernoren/ML-From-Scratch
