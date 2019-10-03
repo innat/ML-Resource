@@ -19,16 +19,16 @@ A concise ML Bookmarks Repository.
 * [Academic Torrent](http://academictorrents.com/browse.php?cat=6)
 
 ## Book Materials
- Machine Learning 
+**Machine Learning**
    + [Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291)
    + [Python Machine Learning](https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka-ebook/dp/B00YSILNL0)
    + [The Hundred-Page Machine Learning Book](https://www.amazon.com/Hundred-Page-Machine-Learning-Book/dp/199957950X)
-* Deep Learning 
+**Deep Learning** 
   + [Deep Learning](https://www.deeplearningbook.org/) 
   + [Deep Learning with Python](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438)
   + [Deep Learning for Computer Vision with Python](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/)
   + [Reinforcement Learning: An Introduction](https://www.amazon.com/Reinforcement-Learning-Introduction-Adaptive-Computation-ebook/dp/B008H5Q8VA)
-* Big Data
+**Big Data**
   + [Data Mining: Concepts and Techniques](https://www.amazon.com/Data-Mining-Concepts-Techniques-Management/dp/0123814790)
   + [An Introduction to Statistical Learning: with Applications in R](https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370)
   + [Python for Data Analysis](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython-ebook/dp/B075X4LT6K)
@@ -36,7 +36,7 @@ A concise ML Bookmarks Repository.
   + [High Performance Spark: Best Practices for Scaling and Optimizing Apache Spark](https://www.amazon.com/High-Performance-Spark-Practices-Optimizing/dp/1491943203)
 
 ## Online Course
-### Machine Learning
+**Machine Learning**
    + [ML | Coursera](https://www.coursera.org/learn/machine-learning/)
    + [ML Specialization | Coursera](https://www.coursera.org/specializations/machine-learning)
       + ML Foundations: A Case Study Approach
@@ -58,7 +58,7 @@ A concise ML Bookmarks Repository.
    + [ML A-Z™ | Udemy](https://www.udemy.com/course/machinelearning/)
    + [ML with Javascript | Udemy](https://www.udemy.com/course/machine-learning-with-javascript/)
    
-### Deep Learning
+**Deep Learning**
    + [Deep Learning Specialization | Coursera](https://www.coursera.org/specializations/deep-learning)
       + Neural Networks and Deep Learning
       + Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
@@ -72,7 +72,7 @@ A concise ML Bookmarks Repository.
    + [Python for Computer Vision with OpenCV and Deep Learning | Udemy](https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/)
    + [Deep Learning Computer Vision™ CNN, OpenCV, YOLO, SSD & GANs | Udemy](https://www.udemy.com/course/master-deep-learning-computer-visiontm-cnn-ssd-yolo-gans/)
    + [TensorFlow 2.0 | Udemy](https://www.udemy.com/course/tensorflow-2/)
-### Data Science
+**Data Science**
    + [Python for Data Science | edX](https://www.edx.org/course/python-for-data-science-3)
    + [Big Data Specialization | Coursera](https://www.coursera.org/specializations/big-data)
       + Introduction to Big Data
