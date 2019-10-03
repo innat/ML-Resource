@@ -40,7 +40,14 @@ A concise ML Bookmarks Repository.
 * Machine Learning
    + [Machine Learning | Coursera](https://www.coursera.org/learn/machine-learning/)
    + [Machine Learning Specialization | Coursera](https://www.coursera.org/specializations/machine-learning)
+      + Machine Learning Foundations: A Case Study Approach
+      + Machine Learning: Regression
+      + Machine Learning: Classification
+      + Machine Learning: Clustering & Retrieval
    + [Mathematics for Machine Learning Specialization | Coursera](https://www.coursera.org/specializations/mathematics-machine-learning?ranMID=40328&ranEAID=vedj0cWlu2Y&ranSiteID=vedj0cWlu2Y-WSA3NztyauBNjsUsiUfg3w&siteID=vedj0cWlu2Y-WSA3NztyauBNjsUsiUfg3w&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=vedj0cWlu2Y)
+      + Mathematics for Machine Learning: Linear Algebra
+      + Mathematics for Machine Learning: Multivariate Calculus
+      + Mathematics for Machine Learning: PCA
    + [Advanced Machine Learning with TensorFlow on Google Cloud Platform Specialization | Coursera](https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp)
       + End-to-End Machine Learning with TensorFlow on GCP
       + Production Machine Learning Systems
