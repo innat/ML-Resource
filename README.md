@@ -1,12 +1,12 @@
 # ML-ResourceNote
  
 ## About
-We expose our online track public. Here, we share some of our attention space .... This is our personal tracking repo, so contents her may be updated frequently based on our interest in the field of Machine Learning and Data Science. 
+A small concise repository for great works.
 
 
 
 ## Table of Contents
-- [GitHub Geeks](#github-geeks)
+- [GitHub Projects](#github-projects)
 - [Data Set Collection](#data-set)
 - [Book Materials](#book-materials)
   * [Contact](#contact)
@@ -35,21 +35,21 @@ We expose our online track public. Here, we share some of our attention space ..
 * [UCI Machine Learning Repository](http://mlr.cs.umass.edu/ml/)
 * [Academic Torrent](http://academictorrents.com/browse.php?cat=6)
 
-## GitHub Geeks
+## GitHub Projects
 We include a very few amount of our favorite GitHub Geeks. 
 
-|       GitHub Profile            | Point of Interest  | Interested Projects |
-|-------------------|-------|-------|
-|[Ian Goodfellow](https://github.com/goodfeli)        |ML Expert  |[GAN](https://github.com/goodfeli/adversarial) |
-|[Michael Nielsen](https://github.com/mnielsen)             |ML Expert   |[Neural Networks and Deep Learning](https://github.com/mnielsen/neural-networks-and-deep-learning) |
-|[Grant Sanderson](https://github.com/3b1b)          |Math Expert  |[Animation Engin for Math](https://github.com/3b1b/manim) |
-|[Matthijs Hollemans](https://github.com/hollance)       |ML Expert   |[Forge](https://github.com/hollance/Forge) |
-|[Andrej](https://github.com/karpathy)      |ML Expert   |[ReinforceJs](https://github.com/karpathy/reinforcejs) |
-|[Alex J. Champandard](https://github.com/alexjc)              |ML Expert   |[Neural-Doodle](https://github.com/alexjc/neural-doodle) |
-|[Piotr Migdał](https://github.com/stared)          |ML Expert   |[Quantum-Game](https://github.com/stared/quantum-game) |
-|[Reiichiro Nakano](https://github.com/reiinakano)           |ML Expert   |[Xcessiv](https://github.com/reiinakano/xcessiv) |
-|[Zhuang Liu](https://github.com/liuzhuang13) |ML Expert  |[DenseNet](https://github.com/liuzhuang13/DenseNet) |
-|[Bolei Zhou](https://github.com/metalbubble?fbclid=IwAR29k07i9Vjs9Ay6ZXr4ZNLc0Wln-6ha6xAHXMs5K7OBqgkXlPxAZ7_jH0Y)       |ML Expert  |[CAM](https://github.com/metalbubble/CAM) |
+| Interested Projects |
+|-------|
+|[GAN](https://github.com/goodfeli/adversarial) |
+|[Neural Networks and Deep Learning](https://github.com/mnielsen/neural-networks-and-deep-learning) |
+|[Animation Engin for Math](https://github.com/3b1b/manim) |
+|[Forge](https://github.com/hollance/Forge) |
+|[ReinforceJs](https://github.com/karpathy/reinforcejs) |
+|[Neural-Doodle](https://github.com/alexjc/neural-doodle) |
+|[Quantum-Game](https://github.com/stared/quantum-game) |
+|[Xcessiv](https://github.com/reiinakano/xcessiv) |
+|[DenseNet](https://github.com/liuzhuang13/DenseNet) |
+|[CAM](https://github.com/metalbubble/CAM) |
 
 
 
