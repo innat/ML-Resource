@@ -5,7 +5,7 @@ A concise Bookmarks of ML Repository.
 - [Data Set](#data-set)
 - [Book Materials](#book-materials)
 - [Online Course](#online-course)
-- [Research Papers](#research-paper)
+- [Research Papers](#research-papers)
 - [GitHub](#github)
 - [Kaggle](#kaggle)
 - [Best Blog](#best-blog)
