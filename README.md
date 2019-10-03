@@ -41,7 +41,6 @@ We include a very few amount of our favorite GitHub Geeks.
 | Interested Projects |
 |-------|
 |[GAN](https://github.com/goodfeli/adversarial) |
-|[Neural Networks and Deep Learning](https://github.com/mnielsen/neural-networks-and-deep-learning) |
 |[Animation Engin for Math](https://github.com/3b1b/manim) |
 |[Forge](https://github.com/hollance/Forge) |
 |[ReinforceJs](https://github.com/karpathy/reinforcejs) |
