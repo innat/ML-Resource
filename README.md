@@ -107,9 +107,9 @@ We include a very few amount of our favorite GitHub Geeks.
 |[ReinforceJs](https://github.com/karpathy/reinforcejs) | - | [Doc](https://cs.stanford.edu/people/karpathy/reinforcejs/) |
 |[Neural-Doodle](https://github.com/alexjc/neural-doodle) | [Arxiv](https://arxiv.org/abs/1603.01768) | - |
 |[Quantum-Game](https://github.com/stared/quantum-game) | - | http://quantumgame.io/ |
-|[Xcessiv](https://github.com/reiinakano/xcessiv) | - | - |
-|[DenseNet](https://github.com/liuzhuang13/DenseNet) | - | - |
-|[CAM](https://github.com/metalbubble/CAM) | - | - |
+|[Xcessiv](https://github.com/reiinakano/xcessiv) | - | [Doc](https://xcessiv.readthedocs.io/en/stable/) |
+|[CAM](https://github.com/metalbubble/CAM) | [Arxiv](https://arxiv.org/pdf/1512.04150.pdf) | [Doc](http://cnnlocalization.csail.mit.edu/) |
+|[Sketch Code](https://github.com/ashnkumar/sketch-code) | - | [Doc](https://blog.insightdatascience.com/automated-front-end-development-using-deep-learning-3169dd086e82) |
 
 ## Kaggle
 - [Competition](#competition)
