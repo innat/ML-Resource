@@ -37,7 +37,21 @@ A concise ML Bookmarks Repository.
 
 
 ## Online Course
--
+* Machine Learning
+   + [Machine Learning | Coursera](https://www.coursera.org/learn/machine-learning/)
+   + [Machine Learning Specialization | Coursera](https://www.coursera.org/specializations/machine-learning)
+   + [Mathematics for Machine Learning Specialization | Coursera](https://www.coursera.org/specializations/mathematics-machine-learning?ranMID=40328&ranEAID=vedj0cWlu2Y&ranSiteID=vedj0cWlu2Y-WSA3NztyauBNjsUsiUfg3w&siteID=vedj0cWlu2Y-WSA3NztyauBNjsUsiUfg3w&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=vedj0cWlu2Y)
+   + [Machine Learning Fundamentals | edX](https://www.edx.org/course/machine-learning-fundamentals-4)
+   + [Intro to Machine Learning | Udacity](https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229?cjevent=50ab2edde60811e98252008a0a18050d)
+   + [Machine Learning A-Z™ | Udemy](https://www.udemy.com/course/machinelearning/)
+   + [Machine Learning with Javascript | Udemy](https://www.udemy.com/course/machine-learning-with-javascript/)
+* Deep Learning
+   
+* Data Science
+   + []()
+   + []()
+
+
 -
 
 ## Research Papers
@@ -47,7 +61,7 @@ A concise ML Bookmarks Repository.
 ## GitHub 
 We include a very few amount of our favorite GitHub Geeks. 
 
-| Interested Projects | Research Paper | Best Blogs |
+| Interested Projects | Research Paper | Explained Blogs |
 |-------|-------|-------|
 |[GAN](https://github.com/goodfeli/adversarial) | - | - |
 |[Animation Engin for Math](https://github.com/3b1b/manim) | - | - |
