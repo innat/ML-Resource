@@ -5,12 +5,12 @@ A concise ML Bookmarks Repository.
 - [Data Set](#data-set)
 - [Book Materials](#book-materials)
 - [Online Course](#online-course)
+- [Research Papers](#research-paper)
 - [GitHub](#github)
 - [Kaggle](#kaggle)
 - [Stack Overflow](#stack-overflow)
 - [Best Blog](#best-blog)
-- [Research Papers](#research-paper)
-- [Contact](#contact)
+- [YouTube Star](#youtube-star)
 
 ## Data Set
 * [Google Dataset Search](https://toolbox.google.com/datasetsearch)
@@ -34,6 +34,15 @@ A concise ML Bookmarks Repository.
   + [Python for Data Analysis](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython-ebook/dp/B075X4LT6K)
   + [Learning Spark: Lightning-Fast Big Data Analysis](https://www.amazon.com/Learning-Spark-Lightning-Fast-Data-Analysis/dp/1449358624)
   + [High Performance Spark: Best Practices for Scaling and Optimizing Apache Spark](https://www.amazon.com/High-Performance-Spark-Practices-Optimizing/dp/1491943203)
+
+
+## Online Course
+-
+-
+
+## Research Papers
+-
+-
 
 ## GitHub 
 We include a very few amount of our favorite GitHub Geeks. 
@@ -63,7 +72,7 @@ We include a very few amount of our favorite GitHub Geeks.
 -
 -
 
-## Research Papers
+## YouTube Star
 -
 -
 
