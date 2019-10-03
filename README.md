@@ -37,17 +37,17 @@ A concise ml-repository.
 ## GitHub Projects
 We include a very few amount of our favorite GitHub Geeks. 
 
-| Interested Projects | Research Paper |
-|-------|-------
-|[GAN](https://github.com/goodfeli/adversarial) | - |
-|[Animation Engin for Math](https://github.com/3b1b/manim) | - |
-|[Forge](https://github.com/hollance/Forge) | - |
-|[ReinforceJs](https://github.com/karpathy/reinforcejs) | - |
-|[Neural-Doodle](https://github.com/alexjc/neural-doodle) | - |
-|[Quantum-Game](https://github.com/stared/quantum-game) | - |
-|[Xcessiv](https://github.com/reiinakano/xcessiv) | - | 
-|[DenseNet](https://github.com/liuzhuang13/DenseNet) | - |
-|[CAM](https://github.com/metalbubble/CAM) | - |
+| Interested Projects | Research Paper | Best Blogs |
+|-------|-------|-------|
+|[GAN](https://github.com/goodfeli/adversarial) | - | - |
+|[Animation Engin for Math](https://github.com/3b1b/manim) | - | - |
+|[Forge](https://github.com/hollance/Forge) | - | - |
+|[ReinforceJs](https://github.com/karpathy/reinforcejs) | - | - |
+|[Neural-Doodle](https://github.com/alexjc/neural-doodle) | - | - |
+|[Quantum-Game](https://github.com/stared/quantum-game) | - | - |
+|[Xcessiv](https://github.com/reiinakano/xcessiv) | - | - |
+|[DenseNet](https://github.com/liuzhuang13/DenseNet) | - | - |
+|[CAM](https://github.com/metalbubble/CAM) | - | - |
 
 ## Kaggle
 - [Competition](#competition)
