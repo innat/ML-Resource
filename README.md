@@ -115,9 +115,13 @@ We include a very few amount of our favorite GitHub Geeks.
 |[Sketch Code](https://github.com/ashnkumar/sketch-code) | - | [Doc](https://blog.insightdatascience.com/automated-front-end-development-using-deep-learning-3169dd086e82) |
 
 ## Kaggle
-- [Competition](#competition)
-- [Notebooks](#notebooks)
-- [Discussion](#discussions)
+**[Competition](#competition)**
+   - For Beginners
+      + [Titanic: Machine Learning from Disaster | Classification](https://www.kaggle.com/c/titanic)
+      + [House Prices: Advanced Regression Techniques | Regression](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+      + [Digit Recognizer | Computer Vision](https://www.kaggle.com/c/digit-recognizer)
+      + [Toxic Comment Classification Challenge | NLP](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)
+      + [Credit Card Fraud Detection | NLP](https://www.kaggle.com/mlg-ulb/creditcardfraud/kernels)
 
 ## Stack Overflow
 - 
