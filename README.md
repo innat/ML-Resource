@@ -12,6 +12,12 @@ A concise ML Bookmarks Repository.
 - [Research Papers](#research-paper)
 - [Contact](#contact)
 
+## Data Set
+* [Google Dataset Search](https://toolbox.google.com/datasetsearch)
+* [Kaggle](https://www.kaggle.com/datasets)
+* [UCI Machine Learning Repository](http://mlr.cs.umass.edu/ml/)
+* [Academic Torrent](http://academictorrents.com/browse.php?cat=6)
+
 ## Book Materials
 * Machine Learning 
    + [Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291)
@@ -28,13 +34,6 @@ A concise ML Bookmarks Repository.
   + [Python for Data Analysis](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython-ebook/dp/B075X4LT6K)
   + [Learning Spark: Lightning-Fast Big Data Analysis](https://www.amazon.com/Learning-Spark-Lightning-Fast-Data-Analysis/dp/1449358624)
   + [High Performance Spark: Best Practices for Scaling and Optimizing Apache Spark](https://www.amazon.com/High-Performance-Spark-Practices-Optimizing/dp/1491943203)
-
-
-## Data Set
-* [Google Dataset Search](https://toolbox.google.com/datasetsearch)
-* [Kaggle](https://www.kaggle.com/datasets)
-* [UCI Machine Learning Repository](http://mlr.cs.umass.edu/ml/)
-* [Academic Torrent](http://academictorrents.com/browse.php?cat=6)
 
 ## GitHub 
 We include a very few amount of our favorite GitHub Geeks. 
@@ -60,6 +59,13 @@ We include a very few amount of our favorite GitHub Geeks.
 - 
 - 
 
+## Best Blog
+-
+-
+
+## Research Papers
+-
+-
 
 ## Contact
 If there's some implementation you would like to see here or if you're just feeling social,
