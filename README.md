@@ -104,12 +104,9 @@ We include a very few amount of our favorite GitHub Geeks.
 
 | Interested Projects | Research Paper | Explained Blogs |
 |-------|-------|-------|
-|[GAN](https://github.com/goodfeli/adversarial) | - | - |
-|[Animation Engin for Math](https://github.com/3b1b/manim) | - | - |
-|[Forge](https://github.com/hollance/Forge) | - | - |
-|[ReinforceJs](https://github.com/karpathy/reinforcejs) | - | - |
-|[Neural-Doodle](https://github.com/alexjc/neural-doodle) | - | - |
-|[Quantum-Game](https://github.com/stared/quantum-game) | - | - |
+|[ReinforceJs](https://github.com/karpathy/reinforcejs) | - | [Doc](https://cs.stanford.edu/people/karpathy/reinforcejs/) |
+|[Neural-Doodle](https://github.com/alexjc/neural-doodle) | [Arxiv](https://arxiv.org/abs/1603.01768) | - |
+|[Quantum-Game](https://github.com/stared/quantum-game) | - | http://quantumgame.io/ |
 |[Xcessiv](https://github.com/reiinakano/xcessiv) | - | - |
 |[DenseNet](https://github.com/liuzhuang13/DenseNet) | - | - |
 |[CAM](https://github.com/metalbubble/CAM) | - | - |
