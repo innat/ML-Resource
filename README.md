@@ -58,11 +58,24 @@ A concise ML Bookmarks Repository.
    + [Intro to ML | Udacity](https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229?cjevent=50ab2edde60811e98252008a0a18050d)
    + [ML A-Z™ | Udemy](https://www.udemy.com/course/machinelearning/)
    + [ML with Javascript | Udemy](https://www.udemy.com/course/machine-learning-with-javascript/)
-* Deep Learning
    
+* Deep Learning
+   + [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+      + Neural Networks and Deep Learning
+      + Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+      + Structuring Machine Learning Projects
+      + Convolutional Neural Networks
+      + Sequence Models
+   + [Deep Learning | Udacity](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
+   + [Deep Learning A-Z™](https://www.udemy.com/course/deeplearning/)
+   + [Complete Guide to TensorFlow for Deep Learning with Python](https://www.udemy.com/course/complete-guide-to-tensorflow-for-deep-learning-with-python/)
+   + [NLP - Natural Language Processing with Python](https://www.udemy.com/course/nlp-natural-language-processing-with-python/)
+   + [Python for Computer Vision with OpenCV and Deep Learning](https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/)
+   + [Deep Learning Computer Vision™ CNN, OpenCV, YOLO, SSD & GANs](https://www.udemy.com/course/master-deep-learning-computer-visiontm-cnn-ssd-yolo-gans/)
+   + [TensorFlow 2.0](https://www.udemy.com/course/tensorflow-2/)
 * Data Science
    + [Python for Data Science | edX](https://www.edx.org/course/python-for-data-science-3)
-   + [Big Data Specialization](https://www.coursera.org/specializations/big-data)
+   + [Big Data Specialization | Coursera](https://www.coursera.org/specializations/big-data)
       + Introduction to Big Data
       + Big Data Modeling and Management Systems
       + Big Data Integration and Processing
@@ -80,6 +93,8 @@ A concise ML Bookmarks Repository.
       + Analyzing Big Data with SQL
       + Managing Big Data in Clusters and Cloud Storage
    + [Python for Data Science and Machine Learning Bootcamp | Udemy](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) 
+   + [Spark and Python for Big Data with PySpark](https://www.udemy.com/course/spark-and-python-for-big-data-with-pyspark/)
+   + [Scala and Spark for Big Data and Machine Learning](https://www.udemy.com/course/scala-and-spark-for-big-data-and-machine-learning/)
 
 ## Research Papers
 -
