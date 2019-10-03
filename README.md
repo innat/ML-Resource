@@ -98,8 +98,11 @@ A concise ML Bookmarks Repository.
    + [Scala and Spark for Big Data and Machine Learning | Udemy](https://www.udemy.com/course/scala-and-spark-for-big-data-and-machine-learning/)
 
 ## Research Papers
--
--
+- [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
+- [FB Research](https://research.fb.com/publications/)
+- [Apple Machine Learning Journal](https://machinelearning.apple.com/)
+- [Google AI](https://ai.google/research/pubs/)
+- [Distill](https://distill.pub/)
 
 ## GitHub 
 We include a very few amount of our favorite GitHub Geeks. 
@@ -133,9 +136,9 @@ We include a very few amount of our favorite GitHub Geeks.
 
 
 ## YouTube Star
--
--
+- [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 
 ## Contact
-If there's some implementation you would like to see here or if you're just feeling social,
+If there's some anything you would like to inform me here or if you're just feeling social,
 feel free to [email](mailto:eriklindernoren@gmail.com) me or connect with me on [LinkedIn](https://www.linkedin.com/in/eriklindernoren/).
