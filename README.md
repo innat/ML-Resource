@@ -126,13 +126,14 @@ We include a very few amount of our favorite GitHub Geeks.
       + [Credit Card Fraud Detection | NLP](https://www.kaggle.com/mlg-ulb/creditcardfraud/kernels)
 
 ## Best Blog
-- [cleverhans](http://www.cleverhans.io/) | About: Security and privacy in machine learning.
+- [Cleverhans](http://www.cleverhans.io/) | About: Security and privacy in machine learning.
 - [Andrej Karpathy](https://karpathy.github.io/)
 - [Kevin](https://kevinzakka.github.io/)
 - [Arthur Juliani](https://medium.com/@awjuliani)
-- [colah](https://colah.github.io/)
+- [Colah](https://colah.github.io/)
 - [Michael Nielsen](http://michaelnielsen.org/)
 - [Polo Club of Data Science](https://poloclub.github.io/)
+- [OpenAI](https://openai.com/)
 - [Open Source](#best-blog)
    + [Facebook Opens Source](https://opensource.facebook.com/)
    + [Google Open Source](https://opensource.google/)
