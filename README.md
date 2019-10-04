@@ -1,7 +1,7 @@
 ![repo-name](https://user-images.githubusercontent.com/17668390/66217099-7f0efa80-e6e8-11e9-8765-9eccd9c7e544.png)
 
 # ML-Bookmarks
-A concise Bookmarks of ML Repository.
+A concise repository of machine learning bookmarks. Here, we try to remain concise but yet to comphrehensive for machine learning resources and related stuffs. We'll continue to update this repository along with our study on machine learning.
 
 ## Table of Contents
 - [Data Set](#data-set)
@@ -106,15 +106,16 @@ For more details, please follow this [link](https://medium.com/towards-artificia
    + [Scala and Spark for Big Data and Machine Learning | Udemy](https://www.udemy.com/course/scala-and-spark-for-big-data-and-machine-learning/)
 
 ## Research Papers
+Some enrich online research databases:
 - [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
+- [ArXiv | CS](https://arxiv.org/search/cs)
 - [FB Research](https://research.fb.com/publications/)
 - [Apple Machine Learning Journal](https://machinelearning.apple.com/)
 - [Google AI](https://ai.google/research/pubs/)
 - [Distill](https://distill.pub/)
 
 ## GitHub 
-We include a very few amount of our favorite GitHub Geeks. 
-
+A very few amount of interesting projects and some relevant sources. 
 | Interested Projects | Research Paper | Explained Blogs |
 |-------|-------|-------|
 |[ReinforceJs](https://github.com/karpathy/reinforcejs) | - | [Doc](https://cs.stanford.edu/people/karpathy/reinforcejs/) |
@@ -160,5 +161,5 @@ We include a very few amount of our favorite GitHub Geeks.
 - [Khan Academy](https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g)
 
 ## Contact
-If there's some anything you would like to inform me here or if you're just feeling social,
-feel free to [email](mailto:eriklindernoren@gmail.com) me or connect with me on [LinkedIn](https://www.linkedin.com/in/eriklindernoren/).
+If there's anything you would like to inform me here or if you're just feeling social,
+feel free to [email](innat1994@gmail.com) me or connect with me on [LinkedIn](https://www.linkedin.com/in/innat2k14/).
