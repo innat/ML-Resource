@@ -41,7 +41,7 @@ For more details, please follow this [link](https://medium.com/towards-artificia
 
 ## Online Course
 **Machine Learning**
-   + [ML Crash Course](https://developers.google.com/machine-learning/crash-course)
+   + [ML Crash Course | Google](https://developers.google.com/machine-learning/crash-course)
    + [ML | Coursera](https://www.coursera.org/learn/machine-learning/)
    + [ML Specialization | Coursera](https://www.coursera.org/specializations/machine-learning)
       + ML Foundations: A Case Study Approach
