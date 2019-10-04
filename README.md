@@ -38,6 +38,7 @@ A concise Bookmarks of ML Repository.
 
 ## Online Course
 **Machine Learning**
+   + [ML Crash Course](https://developers.google.com/machine-learning/crash-course)
    + [ML | Coursera](https://www.coursera.org/learn/machine-learning/)
    + [ML Specialization | Coursera](https://www.coursera.org/specializations/machine-learning)
       + ML Foundations: A Case Study Approach
@@ -60,6 +61,9 @@ A concise Bookmarks of ML Repository.
    + [ML with Javascript | Udemy](https://www.udemy.com/course/machine-learning-with-javascript/)
    
 **Deep Learning**
+   + [UFLDL Tutorial](http://ufldl.stanford.edu/tutorial/)
+   + [Standford Teaching](https://nlp.stanford.edu/teaching/)
+   + [Stanford CS | CNN for Visual Recognition](https://cs231n.github.io/)
    + [Deep Learning Specialization | Coursera](https://www.coursera.org/specializations/deep-learning)
       + Neural Networks and Deep Learning
       + Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
