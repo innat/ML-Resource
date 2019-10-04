@@ -122,8 +122,14 @@ A very few amount of interesting projects and some relevant sources.
 |[Neural-Doodle](https://github.com/alexjc/neural-doodle) | [Arxiv](https://arxiv.org/abs/1603.01768) | - |
 |[Quantum-Game](https://github.com/stared/quantum-game) | - | http://quantumgame.io/ |
 |[Xcessiv](https://github.com/reiinakano/xcessiv) | - | [Doc](https://xcessiv.readthedocs.io/en/stable/) |
+
+
 |[CAM](https://github.com/metalbubble/CAM) | [Arxiv](https://arxiv.org/pdf/1512.04150.pdf) | [Doc](http://cnnlocalization.csail.mit.edu/) |
-|[Sketch Code](https://github.com/ashnkumar/sketch-code) | - | [Doc](https://blog.insightdatascience.com/automated-front-end-development-using-deep-learning-3169dd086e82) |
+
+
+|[Sketch Code](https://github.com/ashnkumar/sketch-code) | - | [Doc](https://blog.insightdatascience.com/automated-front-end development-using-deep-learning-3169dd086e82) |
+
+
 | - | - | - |
 |<ul><li>[Awesome AI](https://github.com/owainlewis/awesome-artificial-intelligence#readme)</li><li>[Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata#readme)</li><li>[Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)</li><li>[Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)</li></ul> | <ul><li>[Awesome Python](https://github.com/vinta/awesome-python#readme)</li><li>[Awesome C++](https://github.com/fffaraz/awesome-cpp#readme)</li><li>[Awesome JavaScript](https://github.com/sorrycc/awesome-javascript#readme)</li><li>[Awesome Scala](https://github.com/lauris/awesome-scala#readme)</li></ul> | <ul><li>[Algorithm Visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)</li><li>[Algovis](https://github.com/enjalot/algovis)</li></ul> |
 
