@@ -142,6 +142,11 @@ We include a very few amount of our favorite GitHub Geeks.
 ## YouTube Star
 - [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+- [Edureka](https://www.youtube.com/channel/UCkw4JCwteGrDHIsyIIKo4tQ)
+- [Sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
+- [Standford School | CNN for Visual Recognition](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+- [Code Bullet](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q/featured)
+- [Khan Academy](https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g)
 
 ## Contact
 If there's some anything you would like to inform me here or if you're just feeling social,
