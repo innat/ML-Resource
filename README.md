@@ -64,6 +64,7 @@ A concise Bookmarks of ML Repository.
    + [UFLDL Tutorial](http://ufldl.stanford.edu/tutorial/)
    + [Stanford Teaching](https://nlp.stanford.edu/teaching/)
    + [Stanford CS | CNN for Visual Recognition](https://cs231n.github.io/)
+   + [Stanford CS | NLP with Deep Learning](http://web.stanford.edu/class/cs224n/index.html)
    + [Deep Learning Specialization | Coursera](https://www.coursera.org/specializations/deep-learning)
       + Neural Networks and Deep Learning
       + Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
