@@ -134,6 +134,7 @@ We include a very few amount of our favorite GitHub Geeks.
 - [Michael Nielsen](http://michaelnielsen.org/)
 - [Polo Club of Data Science](https://poloclub.github.io/)
 - [OpenAI](https://openai.com/)
+- [Research Blog: Stanford NLP](https://nlp.stanford.edu/blog/)
 - [Open Source](#best-blog)
    + [Facebook Opens Source](https://opensource.facebook.com/)
    + [Google Open Source](https://opensource.google/)
