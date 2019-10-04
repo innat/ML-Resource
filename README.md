@@ -62,7 +62,7 @@ A concise Bookmarks of ML Repository.
    
 **Deep Learning**
    + [UFLDL Tutorial](http://ufldl.stanford.edu/tutorial/)
-   + [Standford Teaching](https://nlp.stanford.edu/teaching/)
+   + [Stanford Teaching](https://nlp.stanford.edu/teaching/)
    + [Stanford CS | CNN for Visual Recognition](https://cs231n.github.io/)
    + [Deep Learning Specialization | Coursera](https://www.coursera.org/specializations/deep-learning)
       + Neural Networks and Deep Learning
