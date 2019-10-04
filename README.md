@@ -133,7 +133,9 @@ We include a very few amount of our favorite GitHub Geeks.
 - [colah](https://colah.github.io/)
 - [Michael Nielsen](http://michaelnielsen.org/)
 - [Polo Club of Data Science](https://poloclub.github.io/)
-
+- [Open Source](#best-blog)
+   + [Facebook Opens Source](https://opensource.facebook.com/)
+   + [Google Open Source](https://opensource.google/)
 
 ## YouTube Star
 - [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
