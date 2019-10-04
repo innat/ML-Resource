@@ -123,6 +123,7 @@ We include a very few amount of our favorite GitHub Geeks.
 |[Xcessiv](https://github.com/reiinakano/xcessiv) | - | [Doc](https://xcessiv.readthedocs.io/en/stable/) |
 |[CAM](https://github.com/metalbubble/CAM) | [Arxiv](https://arxiv.org/pdf/1512.04150.pdf) | [Doc](http://cnnlocalization.csail.mit.edu/) |
 |[Sketch Code](https://github.com/ashnkumar/sketch-code) | - | [Doc](https://blog.insightdatascience.com/automated-front-end-development-using-deep-learning-3169dd086e82) |
+| - [Awesome]() - [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata#readme) | - | [Doc](https://blog.insightdatascience.com/automated-front-end-development-using-deep-learning-3169dd086e82) |
 
 ## Kaggle
 **Competition**
