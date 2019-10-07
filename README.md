@@ -1,7 +1,7 @@
 ![repo-name](https://user-images.githubusercontent.com/17668390/66217099-7f0efa80-e6e8-11e9-8765-9eccd9c7e544.png)
 
 # ML-Bookmarks
-A concise repository of machine learning bookmarks. Here, we try to remain concise but yet to comprehensive for machine learning resources and related stuffs. We'll continue to update this repository along with our study on machine learning.
+A concise resource repository for machine learning bookmarks. Here, It'll remain concise but yet to comprehensive for machine learning resources and related stuff. It'll be updated continually with times.
 
 ## Table of Contents
 - [Data Set](#data-set)
