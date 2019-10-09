@@ -140,6 +140,11 @@ A very few amount of interesting projects and some relevant sources.
 
 ## Best Blog
 - [Google AI Blog](https://ai.googleblog.com/)
+- [Berkeley AI Research](https://bair.berkeley.edu/blog/)
+- [Depth First Learning](http://www.depthfirstlearning.com/)
+- [Polo Club of Data Science](https://poloclub.github.io/)
+- [OpenAI](https://openai.com/)
+- [Research Blog: Stanford NLP](https://nlp.stanford.edu/blog/)
 - [Cleverhans](http://www.cleverhans.io/) | About: Security and privacy in machine learning.
 - [Andrej Karpathy](https://karpathy.github.io/)
 - [Kevin Zakka](https://kevinzakka.github.io/)
@@ -147,9 +152,6 @@ A very few amount of interesting projects and some relevant sources.
 - [Colah](https://colah.github.io/)
 - [Michael Nielsen](http://michaelnielsen.org/)
 - [Sebastian Ruder](http://ruder.io/#open)
-- [Polo Club of Data Science](https://poloclub.github.io/)
-- [OpenAI](https://openai.com/)
-- [Research Blog: Stanford NLP](https://nlp.stanford.edu/blog/)
 - [Open Source](#best-blog)
    + [Facebook Opens Source](https://opensource.facebook.com/)
    + [Google Open Source](https://opensource.google/)
