@@ -146,6 +146,7 @@ A very few amount of interesting projects and some relevant sources.
 - [Arthur Juliani](https://medium.com/@awjuliani)
 - [Colah](https://colah.github.io/)
 - [Michael Nielsen](http://michaelnielsen.org/)
+- [Sebastian Ruder](http://ruder.io/#open)
 - [Polo Club of Data Science](https://poloclub.github.io/)
 - [OpenAI](https://openai.com/)
 - [Research Blog: Stanford NLP](https://nlp.stanford.edu/blog/)
