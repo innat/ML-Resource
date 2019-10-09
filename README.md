@@ -139,9 +139,10 @@ A very few amount of interesting projects and some relevant sources.
       + [Credit Card Fraud Detection | NLP](https://www.kaggle.com/mlg-ulb/creditcardfraud/kernels)
 
 ## Best Blog
+- [Google AI Blog](https://ai.googleblog.com/)
 - [Cleverhans](http://www.cleverhans.io/) | About: Security and privacy in machine learning.
 - [Andrej Karpathy](https://karpathy.github.io/)
-- [Kevin](https://kevinzakka.github.io/)
+- [Kevin Zakka](https://kevinzakka.github.io/)
 - [Arthur Juliani](https://medium.com/@awjuliani)
 - [Colah](https://colah.github.io/)
 - [Michael Nielsen](http://michaelnielsen.org/)
