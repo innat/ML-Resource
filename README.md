@@ -24,7 +24,7 @@ For more details, please follow this [link](https://medium.com/towards-artificia
 **Machine Learning**
    + [Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291)
    + [Python Machine Learning](https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka-ebook/dp/B00YSILNL0)
-   + [The Hundred-Page Machine Learning Book](https://www.amazon.com/Hundred-Page-Machine-Learning-Book/dp/199957950X)
+   + [The Hundred-Page Machine Learning Book](http://themlbook.com/wiki/doku.php?id=start)
    
 **Deep Learning** 
   + [Deep Learning](https://www.deeplearningbook.org/) 
