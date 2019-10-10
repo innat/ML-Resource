@@ -152,6 +152,8 @@ A very few amount of interesting projects and some relevant sources.
 - [Colah](https://colah.github.io/)
 - [Michael Nielsen](http://michaelnielsen.org/)
 - [Sebastian Ruder](http://ruder.io/#open)
+- [PyImageSearch](https://www.pyimagesearch.com/)
+- [Machine Learning Mastery](https://machinelearningmastery.com/blog/)
 - [Open Source](#best-blog)
    + [Facebook Opens Source](https://opensource.facebook.com/)
    + [Google Open Source](https://opensource.google/)
