@@ -133,6 +133,7 @@ A very few amount of interesting projects and some relevant sources.
 **Competition**
    - For Beginners
       + [Titanic: Machine Learning from Disaster | Classification](https://www.kaggle.com/c/titanic)
+      + [Categorical Feature Encoding Challenge | Classification](https://www.kaggle.com/c/cat-in-the-dat)
       + [House Prices: Advanced Regression Techniques | Regression](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
       + [Digit Recognizer | Computer Vision](https://www.kaggle.com/c/digit-recognizer)
       + [Toxic Comment Classification Challenge | NLP](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)
