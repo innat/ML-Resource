@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="200" height="131" src="https://user-images.githubusercontent.com/17668390/67318531-6f3b4700-f52d-11e9-8bea-2cafebd9e7b9.png">
+  <img width="200" height="200" src="https://user-images.githubusercontent.com/17668390/67318870-e4a71780-f52d-11e9-9085-9821ab588b08.png">
 </p>
 
 ![repo-name](https://user-images.githubusercontent.com/17668390/66217099-7f0efa80-e6e8-11e9-8765-9eccd9c7e544.png)
