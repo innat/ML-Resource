@@ -138,6 +138,10 @@ A very few amount of interesting projects and some relevant sources.
       + [Digit Recognizer | Computer Vision](https://www.kaggle.com/c/digit-recognizer)
       + [Toxic Comment Classification Challenge | NLP](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)
       + [Credit Card Fraud Detection | NLP](https://www.kaggle.com/mlg-ulb/creditcardfraud/kernels)
+   - Moderate
+      + [Predicting Molecular Properties | Regression](https://www.kaggle.com/c/champs-scalar-coupling)
+      + [Human Protein Atlas Image Classification](https://www.kaggle.com/c/human-protein-atlas-image-classification/overview)
+      + [TrackML Particle Tracking Challenge](https://www.kaggle.com/c/trackml-particle-identification)
 
 ## Best Blog
 - [Google AI Blog](https://ai.googleblog.com/)
