@@ -133,7 +133,7 @@ A very few amount of interesting projects and some relevant sources.
 
 
 ## Kaggle
-Very few amount of kaggle competiton.
+Very few amount of interesting kaggle competiton.
 
    - For Beginners
       + [Titanic: Machine Learning from Disaster | Classification](https://www.kaggle.com/c/titanic)
@@ -148,6 +148,8 @@ Very few amount of kaggle competiton.
       + [TrackML Particle Tracking Challenge](https://www.kaggle.com/c/trackml-particle-identification)
 
 ## Best Blog
+Very few amount of amazing blogs.
+
 - [Google AI Blog](https://ai.googleblog.com/)
 - [Berkeley AI Research](https://bair.berkeley.edu/blog/)
 - [Depth First Learning](http://www.depthfirstlearning.com/)
@@ -178,4 +180,4 @@ Very few amount of kaggle competiton.
 
 ## Contact
 If there's anything you would like to inform me here or if you're just feeling social,
-feel free to [email](innat1994@gmail.com) me or connect with me on [LinkedIn](https://www.linkedin.com/in/innat2k14/).
+feel free to [email](innat1994@gmail.com) me or reach out on [LinkedIn](https://www.linkedin.com/in/innat2k14/).
