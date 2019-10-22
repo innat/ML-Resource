@@ -133,7 +133,8 @@ A very few amount of interesting projects and some relevant sources.
 
 
 ## Kaggle
-**Competition**
+Very few amount of kaggle competiton.
+
    - For Beginners
       + [Titanic: Machine Learning from Disaster | Classification](https://www.kaggle.com/c/titanic)
       + [Categorical Feature Encoding Challenge | Classification](https://www.kaggle.com/c/cat-in-the-dat)
