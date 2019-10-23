@@ -25,8 +25,8 @@ For more details, please follow this [link](https://medium.com/towards-artificia
 
 ## Book Materials
 **Machine Learning (ML)**
-   + [Hands-On ML with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems - 1st Edition](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291) - [2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
-   + [Python Machine Learning](https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka-ebook/dp/B00YSILNL0)
+   + [Hands-On ML with Scikit-Learn, Keras, and TensorFlow | Author: Aurélien](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
+   + [Python Machine Learning | Author: Sebastian](https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka-ebook/dp/B00YSILNL0)
    + [The Hundred-Page Machine Learning Book](http://themlbook.com/wiki/doku.php?id=start)
    
 **Deep Learning** 
