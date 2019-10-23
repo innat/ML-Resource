@@ -31,9 +31,9 @@ For more details, please follow this [link](https://medium.com/towards-artificia
    
 **Deep Learning** 
   + [Deep Learning | Author: Ian Goodfellow](https://www.deeplearningbook.org/) 
-  + [Deep Learning with Python](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438) Francois
-  + [Deep Learning for Computer Vision with Python](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/)
-  + [Reinforcement Learning: An Introduction](https://www.amazon.com/Reinforcement-Learning-Introduction-Adaptive-Computation-ebook/dp/B008H5Q8VA)
+  + [Deep Learning with Python | Author: Francois](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438) 
+  + [Deep Learning for Computer Vision with Python | Author: Adrain](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/)
+  + [Reinforcement Learning: An Introduction | Author: Richard](https://www.amazon.com/Reinforcement-Learning-Introduction-Adaptive-Computation-ebook/dp/B008H5Q8VA)
   
 **Big Data**
   + [Data Mining: Concepts and Techniques](https://www.amazon.com/Data-Mining-Concepts-Techniques-Management/dp/0123814790)
