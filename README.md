@@ -8,22 +8,26 @@
 A concise resource repository for machine learning bookmarks. Here, It'll remain concise but yet to comprehensive for machine learning resources and related stuff. It'll be updated continually with times. However, **ML-Bookmarks** is still of its early stage. There're lots of modification of this repository still remain. We need your support and constructive feedback to turn this repository more robust and reliable to everyone :blush:
 
 ## Table of Contents
+> **:trollface: Some of the material is not reviewed fully yet. A section like this will be revised in the near future.**
 - [Data Set](#data-set)
 - [Book Materials](#book-materials)
 - [Online Course](#online-course)
-- [Research Papers](#research-papers)
+- [Research Databases](#research-databases)
 - [GitHub](#github)
 - [Kaggle](#kaggle)
 - [Best Blog](#best-blog)
 - [YouTube Star](#youtube-star)
 
-## Data Set
+ 
+## Data Set (update:60%)
 For more details, please follow this [link](https://medium.com/towards-artificial-intelligence/the-50-best-public-datasets-for-machine-learning-d80e9f030279). Mr. [Stacy Stanford](https://medium.com/@stanford__ai) has done a great job. However, here are some best source to find high quality dataset so far:
 * [Google Dataset Search](https://toolbox.google.com/datasetsearch)
 * [Kaggle](https://www.kaggle.com/datasets)
 * [UCI Machine Learning Repository](http://mlr.cs.umass.edu/ml/)
 
-## Book Materials
+## Book Materials (update:90%)
+Some of the most influential book lists in the concerned field. 
+
 **Machine Learning (ML)**
    + [Hands-On ML with Scikit-Learn, Keras, and TensorFlow | Author: Aurélien](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
    + [Python Machine Learning | Author: Sebastian](https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka-ebook/dp/B00YSILNL0)
@@ -35,14 +39,16 @@ For more details, please follow this [link](https://medium.com/towards-artificia
   + [Deep Learning for Computer Vision with Python | Author: Adrain](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/)
   + [Reinforcement Learning: An Introduction | Author: Richard](https://www.amazon.com/Reinforcement-Learning-Introduction-Adaptive-Computation-ebook/dp/B008H5Q8VA)
   
-**Big Data**
+**Data Science**
   + [Data Mining: Concepts and Techniques](https://www.amazon.com/Data-Mining-Concepts-Techniques-Management/dp/0123814790)
   + [An Introduction to Statistical Learning: with Applications in R](https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370)
   + [Python for Data Analysis](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython-ebook/dp/B075X4LT6K)
   + [Learning Spark: Lightning-Fast Big Data Analysis](https://www.amazon.com/Learning-Spark-Lightning-Fast-Data-Analysis/dp/1449358624)
   + [High Performance Spark: Best Practices for Scaling and Optimizing Apache Spark](https://www.amazon.com/High-Performance-Spark-Practices-Optimizing/dp/1491943203)
 
-## Online Course
+## Online Course (update:90%)
+Some of the most influential high rated and promising MOOC courses.  
+
 **Machine Learning**
    + [ML Crash Course | Google](https://developers.google.com/machine-learning/crash-course)
    + [ML | Coursera](https://www.coursera.org/learn/machine-learning/)
@@ -108,8 +114,8 @@ For more details, please follow this [link](https://medium.com/towards-artificia
    + [Spark and Python for Big Data with PySpark | Udemy](https://www.udemy.com/course/spark-and-python-for-big-data-with-pyspark/)
    + [Scala and Spark for Big Data and Machine Learning | Udemy](https://www.udemy.com/course/scala-and-spark-for-big-data-and-machine-learning/)
 
-## Research Papers
-Some enrich online research databases:
+## Research Databases
+Some enrich online research databases.
 - [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
 - [ArXiv | CS](https://arxiv.org/search/cs)
 - [FB Research](https://research.fb.com/publications/)
