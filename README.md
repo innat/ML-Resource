@@ -24,8 +24,8 @@ For more details, please follow this [link](https://medium.com/towards-artificia
 * [UCI Machine Learning Repository](http://mlr.cs.umass.edu/ml/)
 
 ## Book Materials
-**Machine Learning**
-   + [Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291)
+**Machine Learning (ML)**
+   + [Hands-On ML with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems - 1st Edition](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291) - [2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
    + [Python Machine Learning](https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka-ebook/dp/B00YSILNL0)
    + [The Hundred-Page Machine Learning Book](http://themlbook.com/wiki/doku.php?id=start)
    
