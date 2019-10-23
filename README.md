@@ -19,7 +19,7 @@ A concise resource repository for machine learning bookmarks. Here, It'll remain
 - [YouTube Star](#youtube-star) | 60%
 
  
-## Data Set 
+## :seedling: Data Set 
 For more details, please follow this [link](https://medium.com/towards-artificial-intelligence/the-50-best-public-datasets-for-machine-learning-d80e9f030279). Mr. [Stacy Stanford](https://medium.com/@stanford__ai) has done a great job. However, here are some best source to find high quality dataset so far:
 * [Google Dataset Search](https://toolbox.google.com/datasetsearch)
 * [Kaggle](https://www.kaggle.com/datasets)
