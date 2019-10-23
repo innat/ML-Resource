@@ -9,9 +9,9 @@ A concise resource repository for machine learning bookmarks. Here, It'll remain
 
 ## Table of Contents
 > **:trollface: Some of the material is not reviewed fully yet. A section like this will be revised in the near future.**
-- [Data Set](#data-set)
-- [Book Materials](#book-materials)
-- [Online Course](#online-course)
+- [Data Set](#data-set) 50% 
+- [Book Materials](#book-materials) 90% 
+- [Online Course](#online-course) 90% 
 - [Research Databases](#research-databases)
 - [GitHub](#github)
 - [Kaggle](#kaggle)
@@ -19,13 +19,13 @@ A concise resource repository for machine learning bookmarks. Here, It'll remain
 - [YouTube Star](#youtube-star)
 
  
-## Data Set (update:60%)
+## Data Set 
 For more details, please follow this [link](https://medium.com/towards-artificial-intelligence/the-50-best-public-datasets-for-machine-learning-d80e9f030279). Mr. [Stacy Stanford](https://medium.com/@stanford__ai) has done a great job. However, here are some best source to find high quality dataset so far:
 * [Google Dataset Search](https://toolbox.google.com/datasetsearch)
 * [Kaggle](https://www.kaggle.com/datasets)
 * [UCI Machine Learning Repository](http://mlr.cs.umass.edu/ml/)
 
-## Book Materials (update:90%)
+## Book Materials 
 Some of the most influential book lists in the concerned field. 
 
 **Machine Learning (ML)**
@@ -46,7 +46,7 @@ Some of the most influential book lists in the concerned field.
   + [Learning Spark: Lightning-Fast Big Data Analysis](https://www.amazon.com/Learning-Spark-Lightning-Fast-Data-Analysis/dp/1449358624)
   + [High Performance Spark: Best Practices for Scaling and Optimizing Apache Spark](https://www.amazon.com/High-Performance-Spark-Practices-Optimizing/dp/1491943203)
 
-## Online Course (update:90%)
+## Online Course 
 Some of the most influential high rated and promising MOOC courses.  
 
 **Machine Learning**
