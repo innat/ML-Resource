@@ -27,11 +27,11 @@ For more details, please follow this [link](https://medium.com/towards-artificia
 **Machine Learning (ML)**
    + [Hands-On ML with Scikit-Learn, Keras, and TensorFlow | Author: Aurélien](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
    + [Python Machine Learning | Author: Sebastian](https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka-ebook/dp/B00YSILNL0)
-   + [The Hundred-Page Machine Learning Book](http://themlbook.com/wiki/doku.php?id=start)
+   + [The Hundred-Page Machine Learning Book | Author: Andriy](http://themlbook.com/wiki/doku.php?id=start)
    
 **Deep Learning** 
-  + [Deep Learning](https://www.deeplearningbook.org/) 
-  + [Deep Learning with Python](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438)
+  + [Deep Learning | Author: Ian Goodfellow](https://www.deeplearningbook.org/) 
+  + [Deep Learning with Python](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438) Francois
   + [Deep Learning for Computer Vision with Python](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/)
   + [Reinforcement Learning: An Introduction](https://www.amazon.com/Reinforcement-Learning-Introduction-Adaptive-Computation-ebook/dp/B008H5Q8VA)
   
