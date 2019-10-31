@@ -157,6 +157,7 @@ Very few amount of interesting kaggle competiton.
 Very few amount of amazing blogs.
 
 - [Google AI Blog](https://ai.googleblog.com/)
+- [Facebook AI](https://ai.facebook.com/)
 - [Berkeley AI Research](https://bair.berkeley.edu/blog/)
 - [Depth First Learning](http://www.depthfirstlearning.com/)
 - [Polo Club of Data Science](https://poloclub.github.io/)
