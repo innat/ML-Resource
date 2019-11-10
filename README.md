@@ -26,7 +26,7 @@ For more details, please follow this [link](https://medium.com/towards-artificia
 * [UCI Machine Learning Repository](http://mlr.cs.umass.edu/ml/)
 
 ## Book Materials 
-Some of the most influential book lists in the concerned field. 
+Some of the most influential book lists in the related field. 
 
 **Machine Learning (ML)**
    + [Hands-On ML with Scikit-Learn, Keras, and TensorFlow | Author: Aurélien](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
@@ -47,7 +47,7 @@ Some of the most influential book lists in the concerned field.
   + [High Performance Spark: Best Practices for Scaling and Optimizing Apache Spark](https://www.amazon.com/High-Performance-Spark-Practices-Optimizing/dp/1491943203)
 
 ## Online Course 
-Some of the most influential high rated and promising MOOC courses.  
+Some of the most influential high rated, resourceful and promising MOOC courses.  
 
 **Machine Learning**
    + [ML Crash Course | Google](https://developers.google.com/machine-learning/crash-course)
@@ -165,6 +165,7 @@ Very few amount of amazing blogs.
 - [Research Blog: Stanford NLP](https://nlp.stanford.edu/blog/)
 - [Cleverhans](http://www.cleverhans.io/) | About: Security and privacy in machine learning.
 - [Andrej Karpathy](https://karpathy.github.io/)
+- [Lil'Log](https://lilianweng.github.io/lil-log/)
 - [Kevin Zakka](https://kevinzakka.github.io/)
 - [Arthur Juliani](https://medium.com/@awjuliani)
 - [Colah](https://colah.github.io/)
