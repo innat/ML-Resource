@@ -16,6 +16,7 @@ A concise resource repository for machine learning bookmarks. Here, It'll remain
 - [GitHub](#github) 
 - [Kaggle](#kaggle) 
 - [Best Blog](#best-blog) 
+- [Conferences](#conferences)
 - [YouTube Star](#youtube-star) 
 
  
@@ -122,6 +123,7 @@ Some enrich online research databases.
 - [Apple Machine Learning Journal](https://machinelearning.apple.com/)
 - [Google AI](https://ai.google/research/pubs/)
 - [Distill](https://distill.pub/)
+- [PaperWithCode](https://paperswithcode.com/)
 
 ## GitHub 
 A very few amount of interesting projects and some relevant sources. 
@@ -177,6 +179,15 @@ Very few amount of amazing blogs.
    + [Facebook Opens Source](https://opensource.facebook.com/)
    + [Google Open Source](https://opensource.google/)
 
+
+## Conferences
+- [CVPR - IEEE Conference on Computer Vision and Pattern Recognition](http://cvpr2018.thecvf.com/)
+- [NeurIPS : Neural Information Processing Systems (NIPS)](https://nips.cc/)
+- [ECCV : European Conference on Computer Vision](https://eccv2020.eu/)
+- [ICML : International Conference on Machine Learning](https://icml.cc/)
+- [ICCV : IEEE/CVF International Conference on Computer Vision](http://iccv2019.thecvf.com/)
+
+
 ## YouTube Star
 - [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
@@ -187,5 +198,4 @@ Very few amount of amazing blogs.
 - [Khan Academy](https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g)
 
 ## Contact
-If there's anything you would like to inform me here or if you're just feeling social,
-feel free to [email](innat1994@gmail.com) me or reach out on [LinkedIn](https://www.linkedin.com/in/innat2k14/).
+If you've anything in mind that you think is awesome and would fit here, feel free to send a [pull request](https://github.com/innat/ML-Bookmarks/pulls) or if you're just feeling social, feel free to [email](innat1994@gmail.com) me or reach out on [LinkedIn](https://www.linkedin.com/in/innat2k14/). 
