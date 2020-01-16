@@ -141,7 +141,7 @@ A very few amount of interesting projects and some relevant sources.
 
 
 ## Kaggle
-Very few amount of interesting kaggle competiton.
+Very few amount of interesting kaggle competiton. [This need to be modified.]
 
    - For Beginners
       + [Titanic: Machine Learning from Disaster | Classification](https://www.kaggle.com/c/titanic)
