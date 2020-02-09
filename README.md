@@ -14,7 +14,6 @@ A concise resource repository for machine learning bookmarks. Here, It'll remain
 - [Online Course](#online-course) 
 - [Research Databases](#research-databases) 
 - [GitHub](#github) 
-- [Kaggle](#kaggle) 
 - [Best Blog](#best-blog) 
 - [Conferences](#conferences)
 - [YouTube Star](#youtube-star) 
@@ -139,21 +138,6 @@ A very few amount of interesting projects and some relevant sources.
 | - | - | - |
 |<ul><li>[Awesome AI](https://github.com/owainlewis/awesome-artificial-intelligence#readme)</li><li>[Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata#readme)</li><li>[Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)</li><li>[Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)</li></ul> | <ul><li>[Awesome Python](https://github.com/vinta/awesome-python#readme)</li><li>[Awesome C++](https://github.com/fffaraz/awesome-cpp#readme)</li><li>[Awesome JavaScript](https://github.com/sorrycc/awesome-javascript#readme)</li><li>[Awesome Scala](https://github.com/lauris/awesome-scala#readme)</li></ul> | <ul><li>[Algorithm Visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)</li><li>[Algovis](https://github.com/enjalot/algovis)</li></ul> |
 
-
-## Kaggle
-Very few amount of interesting kaggle competiton. [This need to be modified.]
-
-   - For Beginners
-      + [Titanic: Machine Learning from Disaster | Classification](https://www.kaggle.com/c/titanic)
-      + [Categorical Feature Encoding Challenge | Classification](https://www.kaggle.com/c/cat-in-the-dat)
-      + [House Prices: Advanced Regression Techniques | Regression](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
-      + [Digit Recognizer | Computer Vision](https://www.kaggle.com/c/digit-recognizer)
-      + [Toxic Comment Classification Challenge | NLP](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)
-      + [Credit Card Fraud Detection | NLP](https://www.kaggle.com/mlg-ulb/creditcardfraud/kernels)
-   - Moderate
-      + [Predicting Molecular Properties | Regression](https://www.kaggle.com/c/champs-scalar-coupling)
-      + [Human Protein Atlas Image Classification](https://www.kaggle.com/c/human-protein-atlas-image-classification/overview)
-      + [TrackML Particle Tracking Challenge](https://www.kaggle.com/c/trackml-particle-identification)
 
 ## Best Blog
 Very few amount of amazing blogs.
