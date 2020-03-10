@@ -136,6 +136,7 @@ A very few amount of interesting projects and some relevant sources.
 | - | - | - |
 |<ul><li>[Awesome AI](https://github.com/owainlewis/awesome-artificial-intelligence#readme)</li><li>[Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata#readme)</li><li>[Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)</li><li>[Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)</li></ul> | <ul><li>[Awesome Python](https://github.com/vinta/awesome-python#readme)</li><li>[Awesome C++](https://github.com/fffaraz/awesome-cpp#readme)</li><li>[Awesome JavaScript](https://github.com/sorrycc/awesome-javascript#readme)</li><li>[Awesome Scala](https://github.com/lauris/awesome-scala#readme)</li></ul> | <ul><li>[Algorithm Visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)</li><li>[Algovis](https://github.com/enjalot/algovis)</li></ul> |
 
+|<ul><li>[Keras: Classification Models A](https://github.com/qubvel/classification_models)</li><li>[Keras: Classification Models B](https://github.com/titu1994/Keras-Classification-Models)</li><li>[Keras: Segmentation Models](https://github.com/qubvel/segmentation_models)</li><li>[PyTorch: Segmentation Models](https://github.com/qubvel/segmentation_models.pytorch)</li></ul>
 
 ## Best Blog
 Very few amount of amazing blogs.
