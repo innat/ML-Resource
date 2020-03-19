@@ -12,6 +12,7 @@ A concise resource repository for machine learning bookmarks. Here, It'll remain
 - [Online Course](#online-course) 
 - [Research Databases](#research-databases) 
 - [GitHub](#github) 
+- [Kaggle](#kaggle)
 - [Best Blog](#best-blog) 
 - [Conferences](#conferences)
 - [YouTube Star](#youtube-star) 
@@ -136,6 +137,15 @@ A very few amount of interesting projects and some relevant sources.
 | - | - | - |
 |<ul><li>[Awesome AI](https://github.com/owainlewis/awesome-artificial-intelligence#readme)</li><li>[Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata#readme)</li><li>[Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)</li><li>[Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)</li></ul> | <ul><li>[Awesome Python](https://github.com/vinta/awesome-python#readme)</li><li>[Awesome C++](https://github.com/fffaraz/awesome-cpp#readme)</li><li>[Awesome JavaScript](https://github.com/sorrycc/awesome-javascript#readme)</li><li>[Awesome Scala](https://github.com/lauris/awesome-scala#readme)</li></ul> | <ul><li>[Algorithm Visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)</li><li>[Algovis](https://github.com/enjalot/algovis)</li></ul> |
 |<ul><li>[Keras: Classification Models A](https://github.com/qubvel/classification_models)</li><li>[Keras: Classification Models B](https://github.com/titu1994/Keras-Classification-Models)</li><li>[Keras: Segmentation Models](https://github.com/qubvel/segmentation_models)</li><li> | <ul><li>[PyTorch: Segmentation Models](https://github.com/qubvel/segmentation_models.pytorch)</li></ul> |
+
+
+## Kaggle
+Gold medal solution summary of some interesting competition.
+
+| Competition | Gold Medal Solution | Part 2 |
+|-------|-------|-------|
+|<ul><li>[APTOS 2019 Blindness Detection](https://www.kaggle.com/c/aptos2019-blindness-detection)</li></ul> | <ul><li>[1st Place Solution](https://www.kaggle.com/c/aptos2019-blindness-detection/discussion/108065)</li><li>[2nd Place Solution](https://www.kaggle.com/c/aptos2019-blindness-detection/discussion/107926)</li><li>[4th Place Solution](https://www.kaggle.com/c/aptos2019-blindness-detection/discussion/107960)</li><li>[5th Place Solution](https://www.kaggle.com/c/aptos2019-blindness-detection/discussion/107960)</li><li>[7th Place Solution](https://www.kaggle.com/c/aptos2019-blindness-detection/discussion/108058)</li></ul> | <ul><li>[8th Place Solution](https://www.kaggle.com/c/aptos2019-blindness-detection/discussion/108030)</li><li>[9th Place Solution](https://www.kaggle.com/c/aptos2019-blindness-detection/discussion/107990)</li><li>[10th Place Solution](https://www.kaggle.com/c/aptos2019-blindness-detection/discussion/107944)</li><li>[11th Place Solution](https://www.kaggle.com/c/aptos2019-blindness-detection/discussion/107958)</li><li>[12th Place Solution](https://www.kaggle.com/c/aptos2019-blindness-detection/discussion/107995)</li></ul> |
+
 
 ## Best Blog
 Very few amount of amazing blogs.
