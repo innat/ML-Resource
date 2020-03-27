@@ -164,6 +164,7 @@ Very few amount of amazing blogs.
 - [PaperWithCode](https://paperswithcode.com/)
 - [Cleverhans](http://www.cleverhans.io/) | About: Security and privacy in machine learning.
 - [Andrej Karpathy](https://karpathy.github.io/)
+- [Visualizing ML: Jay Alammar](http://jalammar.github.io/)
 - [Lil'Log](https://lilianweng.github.io/lil-log/)
 - [Kevin Zakka](https://kevinzakka.github.io/)
 - [Arthur Juliani](https://medium.com/@awjuliani)
