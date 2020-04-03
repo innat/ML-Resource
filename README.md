@@ -17,8 +17,6 @@ A concise resource repository for machine learning bookmarks. Here, It'll remain
 - [Conferences](#conferences)
 - [YouTube Star](#youtube-star) 
 
-:bulb: Refer to the first thing you may like to click!
- 
 ## Data Set 
 For more details, please follow this [link](https://medium.com/towards-artificial-intelligence/the-50-best-public-datasets-for-machine-learning-d80e9f030279). Mr. [Stacy Stanford](https://medium.com/@stanford__ai) has done a great job. However, here are some best source to find high quality dataset so far:
 * [Google Dataset Search](https://toolbox.google.com/datasetsearch) :bulb:
@@ -29,29 +27,29 @@ For more details, please follow this [link](https://medium.com/towards-artificia
 Some of the most influential book lists in the related field. 
 
 **Machine Learning (ML)**
-   + [Hands-On ML with Scikit-Learn, Keras, and TensorFlow | Author: Aurélien](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)  :bulb:
+   + **[Hands-On ML with Scikit-Learn, Keras, and TensorFlow | Author: Aurélien](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)**  
    + [Python Machine Learning | Author: Sebastian](https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka-ebook/dp/B00YSILNL0)
-   + [The Hundred-Page Machine Learning Book | Author: Andriy](http://themlbook.com/wiki/doku.php?id=start) :bulb:
+   + **[The Hundred-Page Machine Learning Book | Author: Andriy](http://themlbook.com/wiki/doku.php?id=start)**
    
 **Deep Learning** 
-  + [Deep Learning | Author: Ian Goodfellow](https://www.deeplearningbook.org/)  :bulb:
-  + [Deep Learning with Python | Author: Francois](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438) 
+  + **[Deep Learning | Author: Ian Goodfellow](https://www.deeplearningbook.org/)**
+  + **[Deep Learning with Python | Author: Francois](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438)** 
   + [Deep Learning for Computer Vision with Python | Author: Adrain](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/)
   + [Reinforcement Learning: An Introduction | Author: Richard](https://www.amazon.com/Reinforcement-Learning-Introduction-Adaptive-Computation-ebook/dp/B008H5Q8VA) :bulb:
   
 **Data Science**
   + [Data Mining: Concepts and Techniques](https://www.amazon.com/Data-Mining-Concepts-Techniques-Management/dp/0123814790)
-  + [An Introduction to Statistical Learning: with Applications in R](https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370) :bulb:
+  + **[An Introduction to Statistical Learning: with Applications in R](https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370)**
   + [Python for Data Analysis](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython-ebook/dp/B075X4LT6K)
   + [Learning Spark: Lightning-Fast Big Data Analysis](https://www.amazon.com/Learning-Spark-Lightning-Fast-Data-Analysis/dp/1449358624) :bulb:
-  + [High Performance Spark: Best Practices for Scaling and Optimizing Apache Spark](https://www.amazon.com/High-Performance-Spark-Practices-Optimizing/dp/1491943203)
+  + **[High Performance Spark: Best Practices for Scaling and Optimizing Apache Spark](https://www.amazon.com/High-Performance-Spark-Practices-Optimizing/dp/1491943203)**
 
 ## Online Course 
 Some of the most influential high rated, resourceful and promising MOOC courses.  
 
 **Machine Learning**
    + [ML Crash Course | Google](https://developers.google.com/machine-learning/crash-course)
-   + [ML | Coursera](https://www.coursera.org/learn/machine-learning/) :bulb:
+   + **[ML | Coursera](https://www.coursera.org/learn/machine-learning/)**
    + [ML Specialization | Coursera](https://www.coursera.org/specializations/machine-learning) 
       + ML Foundations: A Case Study Approach
       + ML: Regression
@@ -70,14 +68,14 @@ Some of the most influential high rated, resourceful and promising MOOC courses.
    + [ML Fundamentals | edX](https://www.edx.org/course/machine-learning-fundamentals-4)
    + [Intro to ML | Udacity](https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229?cjevent=50ab2edde60811e98252008a0a18050d)
    + [ML A-Z™ | Udemy](https://www.udemy.com/course/machinelearning/)
-   + [ML with Javascript | Udemy](https://www.udemy.com/course/machine-learning-with-javascript/)
+   + **[ML with Javascript | Udemy](https://www.udemy.com/course/machine-learning-with-javascript/)**
    
 **Deep Learning**
    + [UFLDL Tutorial](http://ufldl.stanford.edu/tutorial/)
    + [Stanford Teaching](https://nlp.stanford.edu/teaching/)
    + [Stanford CS | CNN for Visual Recognition](https://cs231n.github.io/)
    + [Stanford CS | NLP with Deep Learning](http://web.stanford.edu/class/cs224n/index.html)
-   + [Deep Learning Specialization | Coursera](https://www.coursera.org/specializations/deep-learning) :bulb:
+   + **[Deep Learning Specialization | Coursera](https://www.coursera.org/specializations/deep-learning)**
       + Neural Networks and Deep Learning
       + Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
       + Structuring Machine Learning Projects
@@ -88,7 +86,7 @@ Some of the most influential high rated, resourceful and promising MOOC courses.
    + [Complete Guide to TensorFlow for Deep Learning with Python | Udemy](https://www.udemy.com/course/complete-guide-to-tensorflow-for-deep-learning-with-python/)
    + [NLP - Natural Language Processing with Python | Udemy](https://www.udemy.com/course/nlp-natural-language-processing-with-python/)
    + [Python for Computer Vision with OpenCV and Deep Learning | Udemy](https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/)
-   + [Deep Learning Computer Vision™ CNN, OpenCV, YOLO, SSD & GANs | Udemy](https://www.udemy.com/course/master-deep-learning-computer-visiontm-cnn-ssd-yolo-gans/)
+   + **[Deep Learning Computer Vision™ CNN, OpenCV, YOLO, SSD & GANs | Udemy](https://www.udemy.com/course/master-deep-learning-computer-visiontm-cnn-ssd-yolo-gans/)**
    + [TensorFlow 2.0 | Udemy](https://www.udemy.com/course/tensorflow-2/)
    
 **Data Science**
@@ -100,7 +98,7 @@ Some of the most influential high rated, resourceful and promising MOOC courses.
       + ML With Big Data
       + Graph Analytics for Big Data
       + Big Data - Capstone Project
-   + [Data Engineering, Big Data, and ML on GCP Specialization | Coursera](https://www.coursera.org/specializations/gcp-data-machine-learning) :bulb:
+   + **[Data Engineering, Big Data, and ML on GCP Specialization | Coursera](https://www.coursera.org/specializations/gcp-data-machine-learning)**
       + Google Cloud Platform Big Data and Machine Learning Fundamentals
       + Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform
       + Serverless Data Analysis with Google BigQuery and Cloud Dataflow
@@ -121,8 +119,8 @@ Some enrich online research databases.
 - [FB Research](https://research.fb.com/publications/)
 - [Apple Machine Learning Journal](https://machinelearning.apple.com/)
 - [Google AI](https://ai.google/research/pubs/)
-- [Distill](https://distill.pub/) :bulb:
-- [PaperWithCode](https://paperswithcode.com/) :bulb:
+- **[Distill](https://distill.pub/)**
+- **[PaperWithCode](https://paperswithcode.com/)**
 
 ## GitHub 
 A very few amount of interesting projects and some relevant sources. 
@@ -133,8 +131,8 @@ A very few amount of interesting projects and some relevant sources.
 |[Neural-Doodle](https://github.com/alexjc/neural-doodle) | [Arxiv](https://arxiv.org/abs/1603.01768) | - |
 |[Quantum-Game](https://github.com/stared/quantum-game) | - | http://quantumgame.io/ |
 |[Xcessiv](https://github.com/reiinakano/xcessiv) | - | [Doc](https://xcessiv.readthedocs.io/en/stable/) |
-|[CAM](https://github.com/metalbubble/CAM) | [Arxiv](https://arxiv.org/pdf/1512.04150.pdf) | [Doc](http://cnnlocalization.csail.mit.edu/) |
-|[Sketch Code](https://github.com/ashnkumar/sketch-code) | - | [Doc](https://blog.insightdatascience.com/automated-front-end-development-using-deep-learning-3169dd086e82) |
+|**[CAM](https://github.com/metalbubble/CAM)** | [Arxiv](https://arxiv.org/pdf/1512.04150.pdf) | [Doc](http://cnnlocalization.csail.mit.edu/) |
+|**[Sketch Code](https://github.com/ashnkumar/sketch-code)** | - | [Doc](https://blog.insightdatascience.com/automated-front-end-development-using-deep-learning-3169dd086e82) |
 | - | - | - |
 |<ul><li>[Awesome AI](https://github.com/owainlewis/awesome-artificial-intelligence#readme)</li><li>[Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata#readme)</li><li>[Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)</li><li>[Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)</li></ul> | <ul><li>[Awesome Python](https://github.com/vinta/awesome-python#readme)</li><li>[Awesome C++](https://github.com/fffaraz/awesome-cpp#readme)</li><li>[Awesome JavaScript](https://github.com/sorrycc/awesome-javascript#readme)</li><li>[Awesome Scala](https://github.com/lauris/awesome-scala#readme)</li></ul> | <ul><li>[Algorithm Visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)</li><li>[Algovis](https://github.com/enjalot/algovis)</li></ul> |
 |<ul><li>[Keras: Classification Models A](https://github.com/qubvel/classification_models)</li><li>[Keras: Classification Models B](https://github.com/titu1994/Keras-Classification-Models)</li><li>[Keras: Segmentation Models](https://github.com/qubvel/segmentation_models)</li></ul> | <ul><li>[PyTorch: Segmentation Models](https://github.com/qubvel/segmentation_models.pytorch)</li></ul> |
@@ -158,16 +156,16 @@ Very few amount of amazing blogs.
 - [Google AI Blog](https://ai.googleblog.com/)
 - [Facebook AI](https://ai.facebook.com/)
 - [Berkeley AI Research](https://bair.berkeley.edu/blog/)
-- [Depth First Learning](http://www.depthfirstlearning.com/) :bulb:
+- **[Depth First Learning](http://www.depthfirstlearning.com/)**
 - [Polo Club of Data Science](https://poloclub.github.io/)
 - [OpenAI](https://openai.com/)
 - [Research Blog: Stanford NLP](https://nlp.stanford.edu/blog/)
-- [PaperWithCode](https://paperswithcode.com/) :bulb:
-- [Cleverhans](http://www.cleverhans.io/) | About: Security and privacy in machine learning.
-- [Andrej Karpathy](https://karpathy.github.io/) :bulb:
+- **[PaperWithCode](https://paperswithcode.com/)**
+- **[Cleverhans](http://www.cleverhans.io/)** | About: Security and privacy in machine learning.
+- **[Andrej Karpathy](https://karpathy.github.io/)**
 - [Visualizing ML: Jay Alammar](http://jalammar.github.io/)
-- [Lil'Log](https://lilianweng.github.io/lil-log/) :bulb:
-- [Kevin Zakka](https://kevinzakka.github.io/) :bulb:
+- **[Lil'Log](https://lilianweng.github.io/lil-log/)**
+- **[Kevin Zakka](https://kevinzakka.github.io/)**
 - [Arthur Juliani](https://medium.com/@awjuliani)
 - [Colah](https://colah.github.io/)
 - [Michael Nielsen](http://michaelnielsen.org/)
@@ -189,8 +187,8 @@ Very few amount of amazing blogs.
 
 ## YouTube Star
 - [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
-- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) :bulb:
-- [Edureka](https://www.youtube.com/channel/UCkw4JCwteGrDHIsyIIKo4tQ) :bulb:
+- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) 
+- [Edureka](https://www.youtube.com/channel/UCkw4JCwteGrDHIsyIIKo4tQ) 
 - [Sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ) 
 - [Standford School | CNN for Visual Recognition](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) :bulb:
 - [Code Bullet](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q/featured)
