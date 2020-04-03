@@ -19,7 +19,7 @@ A concise resource repository for machine learning bookmarks. Here, It'll remain
 
 ## Data Set 
 For more details, please follow this [link](https://medium.com/towards-artificial-intelligence/the-50-best-public-datasets-for-machine-learning-d80e9f030279). Mr. [Stacy Stanford](https://medium.com/@stanford__ai) has done a great job. However, here are some best source to find high quality dataset so far:
-* [Google Dataset Search](https://toolbox.google.com/datasetsearch) :bulb:
+* [Google Dataset Search](https://toolbox.google.com/datasetsearch) 
 * [Kaggle](https://www.kaggle.com/datasets)
 * [UCI Machine Learning Repository](http://mlr.cs.umass.edu/ml/)
 
@@ -35,13 +35,13 @@ Some of the most influential book lists in the related field.
   + **[Deep Learning | Author: Ian Goodfellow](https://www.deeplearningbook.org/)**
   + **[Deep Learning with Python | Author: Francois](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438)** 
   + [Deep Learning for Computer Vision with Python | Author: Adrain](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/)
-  + [Reinforcement Learning: An Introduction | Author: Richard](https://www.amazon.com/Reinforcement-Learning-Introduction-Adaptive-Computation-ebook/dp/B008H5Q8VA) :bulb:
+  + [Reinforcement Learning: An Introduction | Author: Richard](https://www.amazon.com/Reinforcement-Learning-Introduction-Adaptive-Computation-ebook/dp/B008H5Q8VA) 
   
 **Data Science**
   + [Data Mining: Concepts and Techniques](https://www.amazon.com/Data-Mining-Concepts-Techniques-Management/dp/0123814790)
   + **[An Introduction to Statistical Learning: with Applications in R](https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370)**
   + [Python for Data Analysis](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython-ebook/dp/B075X4LT6K)
-  + [Learning Spark: Lightning-Fast Big Data Analysis](https://www.amazon.com/Learning-Spark-Lightning-Fast-Data-Analysis/dp/1449358624) :bulb:
+  + [Learning Spark: Lightning-Fast Big Data Analysis](https://www.amazon.com/Learning-Spark-Lightning-Fast-Data-Analysis/dp/1449358624) 
   + **[High Performance Spark: Best Practices for Scaling and Optimizing Apache Spark](https://www.amazon.com/High-Performance-Spark-Practices-Optimizing/dp/1491943203)**
 
 ## Online Course 
