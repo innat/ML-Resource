@@ -17,6 +17,8 @@ A concise resource repository for machine learning bookmarks. Here, It'll remain
 - [Conferences](#conferences)
 - [YouTube Star](#youtube-star) 
 
+> Among the following content which are **BOLD**, you may like to click them first.
+
 ## Data Set 
 For more details, please follow this [link](https://medium.com/towards-artificial-intelligence/the-50-best-public-datasets-for-machine-learning-d80e9f030279). Mr. [Stacy Stanford](https://medium.com/@stanford__ai) has done a great job. However, here are some best source to find high quality dataset so far:
 * [Google Dataset Search](https://toolbox.google.com/datasetsearch) 
@@ -190,7 +192,7 @@ Very few amount of amazing blogs.
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) 
 - [Edureka](https://www.youtube.com/channel/UCkw4JCwteGrDHIsyIIKo4tQ) 
 - [Sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ) 
-- [Standford School | CNN for Visual Recognition](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) :bulb:
+- [Standford School | CNN for Visual Recognition](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) 
 - [Code Bullet](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q/featured)
 - [Khan Academy](https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g)
 
