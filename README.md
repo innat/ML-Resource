@@ -188,6 +188,8 @@ Very few amount of amazing blogs.
 
 
 ## YouTube Star
+- [Arxiv Insights](https://www.youtube.com/c/ArxivInsights)
+- [Welch Labs](https://www.youtube.com/c/WelchLabsVideo/featured)
 - [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) 
 - [Edureka](https://www.youtube.com/channel/UCkw4JCwteGrDHIsyIIKo4tQ) 
