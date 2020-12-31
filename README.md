@@ -143,13 +143,59 @@ A very few amount of interesting projects and some relevant sources.
 ## Kaggle
 Gold medal solution summary of some interesting competition.
 
-| Competition | Gold Medal Solution | --- |
-|-------|-------|-------|
-|<ul><li>[APTOS 2019 Blindness Detection](https://www.kaggle.com/c/aptos2019-blindness-detection)</li></ul> | <ul><li>[1st Place Solution](https://www.kaggle.com/c/aptos2019-blindness-detection/discussion/108065)</li><li>[2nd Place Solution](https://www.kaggle.com/c/aptos2019-blindness-detection/discussion/107926)</li><li>[4th Place Solution](https://www.kaggle.com/c/aptos2019-blindness-detection/discussion/107960)</li><li>[5th Place Solution](https://www.kaggle.com/c/aptos2019-blindness-detection/discussion/107960)</li><li>[7th Place Solution](https://www.kaggle.com/c/aptos2019-blindness-detection/discussion/108058)</li></ul> | <ul><li>[8th Place Solution](https://www.kaggle.com/c/aptos2019-blindness-detection/discussion/108030)</li><li>[9th Place Solution](https://www.kaggle.com/c/aptos2019-blindness-detection/discussion/107990)</li><li>[10th Place Solution](https://www.kaggle.com/c/aptos2019-blindness-detection/discussion/107944)</li><li>[11th Place Solution](https://www.kaggle.com/c/aptos2019-blindness-detection/discussion/107958)</li><li>[12th Place Solution](https://www.kaggle.com/c/aptos2019-blindness-detection/discussion/107995)</li></ul> |
-|<ul><li>[Bengali.AI Handwritten Grapheme Classification](https://www.kaggle.com/c/bengaliai-cv19/overview)</li></ul> | <ul><li>[1st Place Solution](https://www.kaggle.com/c/bengaliai-cv19/discussion/135984)</li><li>[2nd Place Solution](https://www.kaggle.com/c/bengaliai-cv19/discussion/135966)</li><li>[3rd Place Solution](https://www.kaggle.com/c/bengaliai-cv19/discussion/135982)</li><li>[4th Place Solution](https://www.kaggle.com/c/bengaliai-cv19/discussion/136982)</li><li>[5th Place Solution](https://www.kaggle.com/c/bengaliai-cv19/discussion/136129)</li><li>[6th Place Solution](https://www.kaggle.com/c/bengaliai-cv19/discussion/136011)</li><li>[7th Place Solution](https://www.kaggle.com/c/bengaliai-cv19/discussion/135960)</li></ul> | <ul><li>[8th Place Solution](https://www.kaggle.com/c/bengaliai-cv19/discussion/135990)</li><li>[10th Place Solution](https://www.kaggle.com/c/bengaliai-cv19/discussion/136815)</li><li>[9th Place Solution](https://www.kaggle.com/c/bengaliai-cv19/discussion/135985)</li><li>[11th Place Solution](https://www.kaggle.com/c/bengaliai-cv19/discussion/135998)</li><li>[13th Place Solution](https://www.kaggle.com/c/bengaliai-cv19/discussion/136116)</li><li>[14th Place Solution](https://www.kaggle.com/c/bengaliai-cv19/discussion/136021)</li></ul> |
-|<ul><li>[Predicting Molecular Properties](https://www.kaggle.com/c/bengaliai-cv19/overview)</li></ul> | <ul><li>[1st Place Solution](https://www.kaggle.com/c/champs-scalar-coupling/discussion/106575)</li><li>[2nd Place Solution](https://www.kaggle.com/c/champs-scalar-coupling/discussion/106468)</li><li>[3rd Place Solution](https://www.kaggle.com/c/champs-scalar-coupling/discussion/106572)</li><li>[4th Place Solution](https://www.kaggle.com/c/champs-scalar-coupling/discussion/106534)</li><li>[5th Place Solution](https://www.kaggle.com/c/champs-scalar-coupling/discussion/106864)</li><li>[6th Place Solution](https://www.kaggle.com/c/champs-scalar-coupling/discussion/106407)</li><li>[7th Place Solution](https://www.kaggle.com/c/champs-scalar-coupling/discussion/106421)</li></ul> | <ul><li>[8th Place Solution](https://www.kaggle.com/c/champs-scalar-coupling/discussion/106347)</li><li>[9th Place Solution](https://www.kaggle.com/c/champs-scalar-coupling/discussion/106649)</li><li>[10th Place Solution](https://www.kaggle.com/c/champs-scalar-coupling/discussion/106271)</li><li>[12th Place Solution](https://www.kaggle.com/c/champs-scalar-coupling/discussion/106275)</li><li>[13th Place Solution](https://www.kaggle.com/c/champs-scalar-coupling/discussion/106377)</li><li>[14th Place Solution](https://www.kaggle.com/c/champs-scalar-coupling/discussion/106298)</li><li>[15th Place Solution](https://www.kaggle.com/c/champs-scalar-coupling/discussion/106288)</li></ul> |
-|<ul><li>[Human Protein Atlas Image Classification](https://www.kaggle.com/c/human-protein-atlas-image-classification/overview)</li></ul> | <ul><li>[1st Place Solution](https://www.kaggle.com/c/human-protein-atlas-image-classification/discussion/78109)</li><li>[3rd Place Solution](https://www.kaggle.com/c/human-protein-atlas-image-classification/discussion/77320)</li><li>[4th Place Solution](https://www.kaggle.com/c/human-protein-atlas-image-classification/discussion/77300)</li><li>[5th Place Solution](https://www.kaggle.com/c/human-protein-atlas-image-classification/discussion/77731)</li><li>[7th Place Solution](https://www.kaggle.com/c/human-protein-atlas-image-classification/discussion/77269)</li></ul> | <ul><li>[8th Place Solution](https://www.kaggle.com/c/human-protein-atlas-image-classification/discussion/77251)</li><li>[11th Place Solution](https://www.kaggle.com/c/human-protein-atlas-image-classification/discussion/77289)</li><li>[11th Place Solution](https://www.kaggle.com/c/human-protein-atlas-image-classification/discussion/77282)</li><li>[12th Place Solution](https://www.kaggle.com/c/human-protein-atlas-image-classification/discussion/77325)</li><li>[15th Place Solution](https://www.kaggle.com/c/human-protein-atlas-image-classification/discussion/77322)</li></ul> |
-|<ul><li>[SIIM-ACR Pneumothorax Segmentation](https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/overview)</li></ul> | <ul><li>[1st Place Solution](https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/discussion/107824)</li><li>[2rd Place Solution](https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/discussion/108009)</li><li>[3rd Place Solution](https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/discussion/107981)</li><li>[4th Place Solution](https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/discussion/108397)</li><li>[5th Place Solution](https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/discussion/107603)</li><li>[6th Place Solution](https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/discussion/107743)</li></ul> | <ul><li>[7th Place Solution](https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/discussion/107872)</li><li>[8th Place Solution](https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/discussion/107522)</li><li>[9th Place Solution](https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/discussion/108060)</li><li>[10th Place Solution](https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/discussion/107687)</li><li>[11th Place Solution](https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/discussion/107518)</li><li>[12th Place Solution](https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/discussion/107757)</li></ul> |
+- Deep Learning in Medicine  
+  - [NIH Chest X-rays](https://www.kaggle.com/nih-chest-xrays/data)
+  - [SIIM-ISIC Melanoma Classification](https://www.kaggle.com/c/siim-isic-melanoma-classification)
+  - [TReNDS Neuroimaging](https://www.kaggle.com/c/trends-assessment-prediction)
+  - [SIIM-ACR Pneumothorax Segmentation](https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/overview)
+  - [RSNA Pneumonia Detection Challenge](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge/overview)
+  - [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
+  - [OSIC Pulmonary Fibrosis Progression](https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression)
+  - [VinBigData Chest X-ray Abnormalities Detection](https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection/overview)
+  - [RANZCR CLiP - Catheter and Line Position Challenge](https://www.kaggle.com/c/ranzcr-clip-catheter-line-classification/overview)
+  - [APTOS 2019 Blindness Detection](https://www.kaggle.com/c/aptos2019-blindness-detection)
+  - [Diabetic Retinopathy Detection](https://www.kaggle.com/c/diabetic-retinopathy-detection)
+  - [OpenVaccine: COVID-19 mRNA Vaccine Degradation Prediction](https://www.kaggle.com/c/stanford-covid-vaccine)
+  - [RSNA STR Pulmonary Embolism Detection](https://www.kaggle.com/c/rsna-str-pulmonary-embolism-detection)
+  - [Mechanisms of Action (MoA) Prediction](https://www.kaggle.com/c/lish-moa)
+  - [Predicting Molecular Properties](https://www.kaggle.com/c/champs-scalar-coupling)
+  - [Recursion Cellular Image Classification](https://www.kaggle.com/c/recursion-cellular-image-classification)
+  - [Prostate cANcer graDe Assessment (PANDA) Challenge](https://www.kaggle.com/c/prostate-cancer-grade-assessment)
+  - [RSNA Intracranial Hemorrhage Detection](https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection)
+  - [HuBMAP - Hacking the Kidney](https://www.kaggle.com/c/hubmap-kidney-segmentation)
+- General Computer Vision
+
+  **Classification**
+  - [Bengali.AI Handwritten Grapheme Classification](https://www.kaggle.com/c/bengaliai-cv19)
+  - [Understanding Clouds from Satellite Images](https://www.kaggle.com/c/understanding_cloud_organization)
+  - [ALASKA2 Image Steganalysis](https://www.kaggle.com/c/alaska2-image-steganalysis)
+  - [Cassava Leaf Disease Classification](https://www.kaggle.com/c/cassava-leaf-disease-classification)
+  
+  **Detection**
+  - [Global Wheat Detection](https://www.kaggle.com/c/global-wheat-detection)
+  - [Severstal: Steel Defect Detection](https://www.kaggle.com/c/severstal-steel-defect-detection)
+  - [Deepfake Detection Challenge](https://www.kaggle.com/c/deepfake-detection-challenge)
+  - [Lyft 3D Object Detection for Autonomous Vehicles](https://www.kaggle.com/c/3d-object-detection-for-autonomous-vehicles)
+  - [NFL 1st and Future - Impact Detection](https://www.kaggle.com/c/nfl-impact-detection)
+  - [Lyft Motion Prediction for Autonomous Vehicles](https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles)
+  
+  
+  **Natural Language Processing**
+  - [TensorFlow 2.0 Question Answering](https://www.kaggle.com/c/tensorflow2-question-answering)
+  - [Google QUEST Q&A Labeling](https://www.kaggle.com/c/google-quest-challenge)
+  - [Jigsaw Multilingual Toxic Comment Classification](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification)
+  - [Jigsaw Unintended Bias in Toxicity Classification](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification)
+  - [Toxic Comment Classification Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)
+  - [Tweet Sentiment Extraction](https://www.kaggle.com/c/tweet-sentiment-extraction)
+  
+  **Audio**
+    - [Cornell Birdcall Identification](https://www.kaggle.com/c/birdsong-recognition)
+  
+  **Generative  Adversarial Network**
+  - [Generative Dog Images](https://www.kaggle.com/c/generative-dog-images)
+  
+  **Special**
+  - [Abstraction and Reasoning Challenge](https://www.kaggle.com/c/abstraction-and-reasoning-challenge)
 
 
 ## Best Blog 
