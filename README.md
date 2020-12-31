@@ -99,7 +99,6 @@ A very few amount of interesting projects and some relevant sources.
 
 
 ## Kaggle
-Gold medal solution summary of some interesting competition.
 
 - Deep Learning in Medicine  
   - [NIH Chest X-rays](https://www.kaggle.com/nih-chest-xrays/data)
@@ -121,15 +120,16 @@ Gold medal solution summary of some interesting competition.
   - [Prostate cANcer graDe Assessment (PANDA) Challenge](https://www.kaggle.com/c/prostate-cancer-grade-assessment)
   - [RSNA Intracranial Hemorrhage Detection](https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection)
   - [HuBMAP - Hacking the Kidney](https://www.kaggle.com/c/hubmap-kidney-segmentation)
-- General Computer Vision
+  
+- General Competitions 
 
-  **Classification**
+  **Classification (CV)**
   - [Bengali.AI Handwritten Grapheme Classification](https://www.kaggle.com/c/bengaliai-cv19)
   - [Understanding Clouds from Satellite Images](https://www.kaggle.com/c/understanding_cloud_organization)
   - [ALASKA2 Image Steganalysis](https://www.kaggle.com/c/alaska2-image-steganalysis)
   - [Cassava Leaf Disease Classification](https://www.kaggle.com/c/cassava-leaf-disease-classification)
   
-  **Detection**
+  **Detection (CV)**
   - [Global Wheat Detection](https://www.kaggle.com/c/global-wheat-detection)
   - [Severstal: Steel Defect Detection](https://www.kaggle.com/c/severstal-steel-defect-detection)
   - [Deepfake Detection Challenge](https://www.kaggle.com/c/deepfake-detection-challenge)
