@@ -1,7 +1,6 @@
 A concise resource repository for machine learning bookmarks. Here, It'll remain concise but yet to comprehensive for machine learning resources and related stuff. It'll be updated continually with times. However, **ML-Bookmarks** is still of its early stage. There're lots of modification of this repository still remain. We need your support and constructive feedback to turn this repository more robust and reliable to everyone :blush:
 
 ## Table of Contents
-> **Some of the material is not reviewed fully yet. A section like this will be revised in the near future.**
 - [Book Materials](#book-materials) - [Online Course](#online-course) - [Research Databases](#research-databases) - [GitHub](#github) - [Kaggle](#kaggle)- [Best Blog](#best-blog) - [Conferences](#conferences)- [YouTube Star](#youtube-star) 
 
 > Among the following content which are **BOLD**, you may like to click them first.
