@@ -1,29 +1,11 @@
-
-<p align="center">
-  <img width="100" height="100" src="https://user-images.githubusercontent.com/17668390/67318870-e4a71780-f52d-11e9-9085-9821ab588b08.png">
-</p>
-
 A concise resource repository for machine learning bookmarks. Here, It'll remain concise but yet to comprehensive for machine learning resources and related stuff. It'll be updated continually with times. However, **ML-Bookmarks** is still of its early stage. There're lots of modification of this repository still remain. We need your support and constructive feedback to turn this repository more robust and reliable to everyone :blush:
 
 ## Table of Contents
 > **Some of the material is not reviewed fully yet. A section like this will be revised in the near future.**
-- [Data Set](#data-set) 
-- [Book Materials](#book-materials) 
-- [Online Course](#online-course) 
-- [Research Databases](#research-databases) 
-- [GitHub](#github) 
-- [Kaggle](#kaggle)
-- [Best Blog](#best-blog) 
-- [Conferences](#conferences)
-- [YouTube Star](#youtube-star) 
+- [Book Materials](#book-materials) - [Online Course](#online-course) - [Research Databases](#research-databases) - [GitHub](#github) - [Kaggle](#kaggle)- [Best Blog](#best-blog) - [Conferences](#conferences)- [YouTube Star](#youtube-star) 
 
 > Among the following content which are **BOLD**, you may like to click them first.
 
-## Data Set 
-For more details, please follow this [link](https://medium.com/towards-artificial-intelligence/the-50-best-public-datasets-for-machine-learning-d80e9f030279). Mr. [Stacy Stanford](https://medium.com/@stanford__ai) has done a great job. However, here are some best source to find high quality dataset so far:
-* [Google Dataset Search](https://toolbox.google.com/datasetsearch) 
-* [Kaggle](https://www.kaggle.com/datasets)
-* [UCI Machine Learning Repository](http://mlr.cs.umass.edu/ml/)
 
 ## Book Materials 
 Some of the most influential book lists in the related field. 
@@ -53,19 +35,11 @@ Some of the most influential high rated, resourceful and promising MOOC courses.
    + [ML Crash Course | Google](https://developers.google.com/machine-learning/crash-course)
    + **[ML | Coursera](https://www.coursera.org/learn/machine-learning/)**
    + [ML Specialization | Coursera](https://www.coursera.org/specializations/machine-learning) 
-      + ML Foundations: A Case Study Approach
-      + ML: Regression
-      + ML: Classification
-      + ML: Clustering & Retrieval
+      - ML Foundations: A Case Study Approach - ML: Regression - ML: Classification - ML: Clustering & Retrieval
    + [Mathematics for ML Specialization | Coursera](https://www.coursera.org/specializations/mathematics-machine-learning?ranMID=40328&ranEAID=vedj0cWlu2Y&ranSiteID=vedj0cWlu2Y-WSA3NztyauBNjsUsiUfg3w&siteID=vedj0cWlu2Y-WSA3NztyauBNjsUsiUfg3w&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=vedj0cWlu2Y)
-      + Mathematics for ML: Linear Algebra
-      + Mathematics for ML: Multivariate Calculus
-      + Mathematics for ML: PCA
+      - Mathematics for ML: Linear Algebra - Mathematics for ML: Multivariate Calculus - Mathematics for ML: PCA
    + [Advanced Machine Learning with TensorFlow on Google Cloud Platform Specialization | Coursera](https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp)
-      + End-to-End ML with TensorFlow on GCP
-      + Production ML Systems
-      + Image Understanding with TensorFlow on GCP
-      + Sequence Models for Time Series and NLP
+      - End-to-End ML with TensorFlow on GCP - Production ML Systems - Image Understanding with TensorFlow on GCP - Sequence Models for Time Series and NLP
    + [Applying ML to your Data with GCP | Coursera](https://www.coursera.org/learn/data-insights-gcp-apply-ml)
    + [ML Fundamentals | edX](https://www.edx.org/course/machine-learning-fundamentals-4)
    + [Intro to ML | Udacity](https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229?cjevent=50ab2edde60811e98252008a0a18050d)
@@ -78,11 +52,7 @@ Some of the most influential high rated, resourceful and promising MOOC courses.
    + [Stanford CS | CNN for Visual Recognition](https://cs231n.github.io/)
    + [Stanford CS | NLP with Deep Learning](http://web.stanford.edu/class/cs224n/index.html)
    + **[Deep Learning Specialization | Coursera](https://www.coursera.org/specializations/deep-learning)**
-      + Neural Networks and Deep Learning
-      + Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
-      + Structuring Machine Learning Projects
-      + Convolutional Neural Networks
-      + Sequence Models
+      - Neural Networks and Deep Learning - Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization -Structuring Machine Learning Projects - Convolutional Neural Networks - Sequence Models
    + [Deep Learning | Udacity](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
    + [Deep Learning A-Z™ | Udemy](https://www.udemy.com/course/deeplearning/)
    + [Complete Guide to TensorFlow for Deep Learning with Python | Udemy](https://www.udemy.com/course/complete-guide-to-tensorflow-for-deep-learning-with-python/)
@@ -94,22 +64,11 @@ Some of the most influential high rated, resourceful and promising MOOC courses.
 **Data Science**
    + [Python for Data Science | edX](https://www.edx.org/course/python-for-data-science-3)
    + [Big Data Specialization | Coursera](https://www.coursera.org/specializations/big-data)
-      + Introduction to Big Data
-      + Big Data Modeling and Management Systems
-      + Big Data Integration and Processing
-      + ML With Big Data
-      + Graph Analytics for Big Data
-      + Big Data - Capstone Project
+      - Introduction to Big Data - Big Data Modeling and Management Systems - Big Data Integration and Processing - ML With Big Data - Graph Analytics for Big Data - Big Data - Capstone Project
    + **[Data Engineering, Big Data, and ML on GCP Specialization | Coursera](https://www.coursera.org/specializations/gcp-data-machine-learning)**
-      + Google Cloud Platform Big Data and Machine Learning Fundamentals
-      + Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform
-      + Serverless Data Analysis with Google BigQuery and Cloud Dataflow
-      + Serverless Machine Learning with Tensorflow on Google Cloud Platform
-      + Building Resilient Streaming Systems on Google Cloud Platform
+      - Google Cloud Platform Big Data and Machine Learning Fundamentals - Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform - Serverless Data Analysis with Google BigQuery and Cloud Dataflow - Serverless Machine Learning with Tensorflow on Google Cloud Platform - Building Resilient Streaming Systems on Google Cloud Platform
    + [Modern Big Data Analysis with SQL Specialization | Coursera](https://www.coursera.org/specializations/cloudera-big-data-analysis-sql)
-      + Foundations for Big Data Analysis with SQL
-      + Analyzing Big Data with SQL
-      + Managing Big Data in Clusters and Cloud Storage
+      - Foundations for Big Data Analysis with SQL - Analyzing Big Data with SQL - Managing Big Data in Clusters and Cloud Storage
    + [Python for Data Science and Machine Learning Bootcamp | Udemy](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) 
    + [Spark and Python for Big Data with PySpark | Udemy](https://www.udemy.com/course/spark-and-python-for-big-data-with-pyspark/)
    + [Scala and Spark for Big Data and Machine Learning | Udemy](https://www.udemy.com/course/scala-and-spark-for-big-data-and-machine-learning/)
@@ -146,20 +105,20 @@ Gold medal solution summary of some interesting competition.
 - Deep Learning in Medicine  
   - [NIH Chest X-rays](https://www.kaggle.com/nih-chest-xrays/data)
   - [SIIM-ISIC Melanoma Classification](https://www.kaggle.com/c/siim-isic-melanoma-classification)
+  - [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
+  - [Recursion Cellular Image Classification](https://www.kaggle.com/c/recursion-cellular-image-classification)
+  - [APTOS 2019 Blindness Detection](https://www.kaggle.com/c/aptos2019-blindness-detection)
+  - [Diabetic Retinopathy Detection](https://www.kaggle.com/c/diabetic-retinopathy-detection)
   - [TReNDS Neuroimaging](https://www.kaggle.com/c/trends-assessment-prediction)
   - [SIIM-ACR Pneumothorax Segmentation](https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/overview)
   - [RSNA Pneumonia Detection Challenge](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge/overview)
-  - [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
   - [OSIC Pulmonary Fibrosis Progression](https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression)
   - [VinBigData Chest X-ray Abnormalities Detection](https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection/overview)
   - [RANZCR CLiP - Catheter and Line Position Challenge](https://www.kaggle.com/c/ranzcr-clip-catheter-line-classification/overview)
-  - [APTOS 2019 Blindness Detection](https://www.kaggle.com/c/aptos2019-blindness-detection)
-  - [Diabetic Retinopathy Detection](https://www.kaggle.com/c/diabetic-retinopathy-detection)
   - [OpenVaccine: COVID-19 mRNA Vaccine Degradation Prediction](https://www.kaggle.com/c/stanford-covid-vaccine)
   - [RSNA STR Pulmonary Embolism Detection](https://www.kaggle.com/c/rsna-str-pulmonary-embolism-detection)
   - [Mechanisms of Action (MoA) Prediction](https://www.kaggle.com/c/lish-moa)
   - [Predicting Molecular Properties](https://www.kaggle.com/c/champs-scalar-coupling)
-  - [Recursion Cellular Image Classification](https://www.kaggle.com/c/recursion-cellular-image-classification)
   - [Prostate cANcer graDe Assessment (PANDA) Challenge](https://www.kaggle.com/c/prostate-cancer-grade-assessment)
   - [RSNA Intracranial Hemorrhage Detection](https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection)
   - [HuBMAP - Hacking the Kidney](https://www.kaggle.com/c/hubmap-kidney-segmentation)
@@ -178,7 +137,6 @@ Gold medal solution summary of some interesting competition.
   - [Lyft 3D Object Detection for Autonomous Vehicles](https://www.kaggle.com/c/3d-object-detection-for-autonomous-vehicles)
   - [NFL 1st and Future - Impact Detection](https://www.kaggle.com/c/nfl-impact-detection)
   - [Lyft Motion Prediction for Autonomous Vehicles](https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles)
-  
   
   **Natural Language Processing**
   - [TensorFlow 2.0 Question Answering](https://www.kaggle.com/c/tensorflow2-question-answering)
@@ -236,7 +194,6 @@ Very few amount of amazing blogs.
 ## YouTube Star
 - [Arxiv Insights](https://www.youtube.com/c/ArxivInsights)
 - [Welch Labs](https://www.youtube.com/c/WelchLabsVideo/featured)
-- [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) 
 - [Edureka](https://www.youtube.com/channel/UCkw4JCwteGrDHIsyIIKo4tQ) 
 - [Sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ) 
