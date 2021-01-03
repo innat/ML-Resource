@@ -103,6 +103,7 @@ A very few amount of interesting projects and some relevant sources.
 - Deep Learning in Medicine  
   - [NIH Chest X-rays](https://www.kaggle.com/nih-chest-xrays/data)
   - [SIIM-ISIC Melanoma Classification](https://www.kaggle.com/c/siim-isic-melanoma-classification)
+  - [2018 Data Science Bowl](https://www.kaggle.com/c/data-science-bowl-2018)
   - [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
   - [Recursion Cellular Image Classification](https://www.kaggle.com/c/recursion-cellular-image-classification)
   - [APTOS 2019 Blindness Detection](https://www.kaggle.com/c/aptos2019-blindness-detection)
