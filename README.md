@@ -103,7 +103,7 @@ A very few amount of interesting projects and some relevant sources.
 - Deep Learning in Medicine  
   - [NIH Chest X-rays](https://www.kaggle.com/nih-chest-xrays/data)
   - [SIIM-ISIC Melanoma Classification](https://www.kaggle.com/c/siim-isic-melanoma-classification)
-  - [2018 Data Science Bowl](https://www.kaggle.com/c/data-science-bowl-2018)
+  - [2018 Data Science Bowl](https://www.kaggle.com/c/data-science-bowl-2018) - **Segmentation**
   - [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
   - [Recursion Cellular Image Classification](https://www.kaggle.com/c/recursion-cellular-image-classification)
   - [APTOS 2019 Blindness Detection](https://www.kaggle.com/c/aptos2019-blindness-detection)
@@ -137,6 +137,10 @@ A very few amount of interesting projects and some relevant sources.
   - [Lyft 3D Object Detection for Autonomous Vehicles](https://www.kaggle.com/c/3d-object-detection-for-autonomous-vehicles)
   - [NFL 1st and Future - Impact Detection](https://www.kaggle.com/c/nfl-impact-detection)
   - [Lyft Motion Prediction for Autonomous Vehicles](https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles)
+  
+  **Segmentation (CV)**
+  - [Carvana Image Masking Challenge](https://www.kaggle.com/c/carvana-image-masking-challenge)
+  - [Dstl Satellite Imagery Feature Detection](https://www.kaggle.com/c/dstl-satellite-imagery-feature-detection)
   
   **Natural Language Processing**
   - [TensorFlow 2.0 Question Answering](https://www.kaggle.com/c/tensorflow2-question-answering)
