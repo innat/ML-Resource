@@ -141,6 +141,7 @@ A very few amount of interesting projects and some relevant sources.
   **Segmentation (CV)**
   - [Carvana Image Masking Challenge](https://www.kaggle.com/c/carvana-image-masking-challenge)
   - [Dstl Satellite Imagery Feature Detection](https://www.kaggle.com/c/dstl-satellite-imagery-feature-detection)
+  - [Understanding Clouds from Satellite Images](https://www.kaggle.com/c/understanding_cloud_organization/overview)
   
   **Natural Language Processing**
   - [TensorFlow 2.0 Question Answering](https://www.kaggle.com/c/tensorflow2-question-answering)
