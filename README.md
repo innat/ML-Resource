@@ -1,4 +1,6 @@
-A concise resource repository for machine learning bookmarks. Here, It'll remain concise but yet to comprehensive for machine learning resources and related stuff. It'll be updated continually with times. However, **ML-Bookmarks** is still of its early stage. There're lots of modification of this repository still remain. We need your support and constructive feedback to turn this repository more robust and reliable to everyone :blush:
+![dancing_drogon](https://user-images.githubusercontent.com/17668390/110049208-9ccc0d80-7d7b-11eb-855f-10116ea07661.gif)
+
+A concise resource repository for machine learning bookmarks. Here, It'll remain concise but yet to comprehensive for machine learning resources and related stuff. It'll be updated continually with times. 
 
 ## Table of Contents
 - [Book Materials](#book-materials) - [Online Course](#online-course) - [Research Databases](#research-databases) - [GitHub](#github) - [Kaggle](#kaggle)- [Best Blog](#best-blog) - [Conferences](#conferences)- [YouTube Star](#youtube-star) 
