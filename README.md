@@ -136,6 +136,7 @@ A very few amount of interesting projects and some relevant sources.
   - [Global Wheat Detection](https://www.kaggle.com/c/global-wheat-detection)
   - [Severstal: Steel Defect Detection](https://www.kaggle.com/c/severstal-steel-defect-detection)
   - [Deepfake Detection Challenge](https://www.kaggle.com/c/deepfake-detection-challenge)
+  - [Humpback Whale Identification](https://www.kaggle.com/c/humpback-whale-identification/overview)
   - [Lyft 3D Object Detection for Autonomous Vehicles](https://www.kaggle.com/c/3d-object-detection-for-autonomous-vehicles)
   - [NFL 1st and Future - Impact Detection](https://www.kaggle.com/c/nfl-impact-detection)
   - [Lyft Motion Prediction for Autonomous Vehicles](https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles)
