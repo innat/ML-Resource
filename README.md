@@ -144,9 +144,14 @@ A very few amount of interesting projects and some relevant sources.
   - [Lyft Motion Prediction for Autonomous Vehicles](https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles)
   
   **Segmentation (CV)**
+  - [Airbus Ship Detection Challenge](https://www.kaggle.com/c/airbus-ship-detection/overview)
   - [Carvana Image Masking Challenge](https://www.kaggle.com/c/carvana-image-masking-challenge)
   - [Dstl Satellite Imagery Feature Detection](https://www.kaggle.com/c/dstl-satellite-imagery-feature-detection)
   - [Understanding Clouds from Satellite Images](https://www.kaggle.com/c/understanding_cloud_organization/overview)
+  - [iMaterialist (Fashion) 2019 at FGVC6](https://www.kaggle.com/c/imaterialist-fashion-2019-FGVC6/overview)
+
+  **Instance Segmentation**
+  - [Sartorius - Cell Instance Segmentation](https://www.kaggle.com/c/sartorius-cell-instance-segmentation)
   
   **Natural Language Processing**
   - [TensorFlow 2.0 Question Answering](https://www.kaggle.com/c/tensorflow2-question-answering)
