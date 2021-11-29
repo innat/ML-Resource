@@ -135,6 +135,7 @@ A very few amount of interesting projects and some relevant sources.
   - [Cassava Leaf Disease Classification](https://www.kaggle.com/c/cassava-leaf-disease-classification)
   
   **Detection (CV)**
+  - [Tensorflow - Help Protect the Great Barrier Reef](https://www.kaggle.com/c/tensorflow-great-barrier-reef/overview)
   - [Global Wheat Detection](https://www.kaggle.com/c/global-wheat-detection)
   - [Severstal: Steel Defect Detection](https://www.kaggle.com/c/severstal-steel-defect-detection)
   - [Deepfake Detection Challenge](https://www.kaggle.com/c/deepfake-detection-challenge)
@@ -149,6 +150,7 @@ A very few amount of interesting projects and some relevant sources.
   - [Dstl Satellite Imagery Feature Detection](https://www.kaggle.com/c/dstl-satellite-imagery-feature-detection)
   - [Understanding Clouds from Satellite Images](https://www.kaggle.com/c/understanding_cloud_organization/overview)
   - [iMaterialist (Fashion) 2019 at FGVC6](https://www.kaggle.com/c/imaterialist-fashion-2019-FGVC6/overview)
+  - [Carvana Image Masking Challenge](https://www.kaggle.com/c/carvana-image-masking-challenge)
 
   **Instance Segmentation**
   - [Sartorius - Cell Instance Segmentation](https://www.kaggle.com/c/sartorius-cell-instance-segmentation)
