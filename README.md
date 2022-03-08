@@ -91,13 +91,12 @@ A very few amount of interesting projects and some relevant sources.
 |-------|-------|-------|
 |[Detectron2](https://github.com/facebookresearch/detectron2) | [Blog](https://ai.facebook.com/blog/-detectron2-a-pytorch-based-modular-object-detection-library-/) | [Doc](https://detectron2.readthedocs.io/en/latest/) |
 |[MMDetection](https://github.com/open-mmlab/mmdetection) | - | - |
-|[Quantum-Game](https://github.com/stared/quantum-game) | - | http://quantumgame.io/ |
-|[Xcessiv](https://github.com/reiinakano/xcessiv) | - | [Doc](https://xcessiv.readthedocs.io/en/stable/) |
+|[2D Segmentation-PyTorch](https://github.com/qubvel/segmentation_models.pytorch) | - | [Doc](https://smp.readthedocs.io/en/latest/) |
+|[2D Segmentation-Keras](https://github.com/qubvel/segmentation_models) | - | [Doc](https://segmentation-models.readthedocs.io/en/latest/) |
 |**[CAM](https://github.com/metalbubble/CAM)** | [Arxiv](https://arxiv.org/pdf/1512.04150.pdf) | [Doc](http://cnnlocalization.csail.mit.edu/) |
 |**[Sketch Code](https://github.com/ashnkumar/sketch-code)** | - | [Doc](https://blog.insightdatascience.com/automated-front-end-development-using-deep-learning-3169dd086e82) |
 | - | - | - |
 |<ul><li>[Awesome AI](https://github.com/owainlewis/awesome-artificial-intelligence#readme)</li><li>[Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata#readme)</li><li>[Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)</li><li>[Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)</li></ul> | <ul><li>[Awesome Python](https://github.com/vinta/awesome-python#readme)</li><li>[Awesome C++](https://github.com/fffaraz/awesome-cpp#readme)</li><li>[Awesome JavaScript](https://github.com/sorrycc/awesome-javascript#readme)</li><li>[Awesome Scala](https://github.com/lauris/awesome-scala#readme)</li></ul> | <ul><li>[Algorithm Visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)</li><li>[Algovis](https://github.com/enjalot/algovis)</li></ul> |
-|<ul><li>[Keras: Classification Models A](https://github.com/qubvel/classification_models)</li><li>[Keras: Classification Models B](https://github.com/titu1994/Keras-Classification-Models)</li><li>[Keras: Segmentation Models](https://github.com/qubvel/segmentation_models)</li></ul> | <ul><li>[PyTorch: Segmentation Models](https://github.com/qubvel/segmentation_models.pytorch)</li></ul> |
 
 
 ## Kaggle
