@@ -14,13 +14,13 @@ Some of the most influential book lists in the related field.
 **Machine Learning (ML)**
    + **[Hands-On ML with Scikit-Learn, Keras, and TensorFlow | Author: Aurélien](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)**  
    + [Python Machine Learning | Author: Sebastian](https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka-ebook/dp/B00YSILNL0)
-   + **[The Hundred-Page Machine Learning Book | Author: Andriy](http://themlbook.com/wiki/doku.php?id=start)**
+   + **[The Hundred-Page Machine Learning Book | Andriy](http://themlbook.com/wiki/doku.php?id=start)**
    
 **Deep Learning** 
   + **[Deep Learning | Author: Ian Goodfellow](https://www.deeplearningbook.org/)**
   + **[Deep Learning with Python | Author: Francois](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438)** 
   + [Deep Learning for Computer Vision with Python | Author: Adrain](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/)
-  + [Reinforcement Learning: An Introduction | Author: Richard](https://www.amazon.com/Reinforcement-Learning-Introduction-Adaptive-Computation-ebook/dp/B008H5Q8VA) 
+  + [Reinforcement Learning: An Introduction | Richard](https://www.amazon.com/Reinforcement-Learning-Introduction-Adaptive-Computation-ebook/dp/B008H5Q8VA) 
   
 **Data Science**
   + [Data Mining: Concepts and Techniques](https://www.amazon.com/Data-Mining-Concepts-Techniques-Management/dp/0123814790)
@@ -89,8 +89,8 @@ A very few amount of interesting projects and some relevant sources.
 
 | Interested Projects | Research Paper | Explained Blogs |
 |-------|-------|-------|
-|[ReinforceJs](https://github.com/karpathy/reinforcejs) | - | [Doc](https://cs.stanford.edu/people/karpathy/reinforcejs/) |
-|[Neural-Doodle](https://github.com/alexjc/neural-doodle) | [Arxiv](https://arxiv.org/abs/1603.01768) | - |
+|[Detectron2](https://github.com/facebookresearch/detectron2) | [Blog](https://ai.facebook.com/blog/-detectron2-a-pytorch-based-modular-object-detection-library-/) | [Doc](https://detectron2.readthedocs.io/en/latest/) |
+|[MMDetection](https://github.com/open-mmlab/mmdetection) | - | - |
 |[Quantum-Game](https://github.com/stared/quantum-game) | - | http://quantumgame.io/ |
 |[Xcessiv](https://github.com/reiinakano/xcessiv) | - | [Doc](https://xcessiv.readthedocs.io/en/stable/) |
 |**[CAM](https://github.com/metalbubble/CAM)** | [Arxiv](https://arxiv.org/pdf/1512.04150.pdf) | [Doc](http://cnnlocalization.csail.mit.edu/) |
