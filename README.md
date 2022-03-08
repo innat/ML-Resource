@@ -85,9 +85,10 @@ Some enrich online research databases.
 - **[PaperWithCode](https://paperswithcode.com/)**
 
 ## GitHub 
-A very few amount of interesting projects and some relevant sources. 
 
-| Interested Projects | Research Paper | Explained Blogs |
+Some open source project to facilitate computer vision task, i.e. classification, detection, semanctic / instance / panoptic segmentation, object tracking, keypoint detection, optical character recognition, etc. 
+
+| OS Projects | Research Paper | Explained Blogs |
 |-------|-------|-------|
 |[Detectron2](https://github.com/facebookresearch/detectron2) | [Blog](https://ai.facebook.com/blog/-detectron2-a-pytorch-based-modular-object-detection-library-/) | [Doc](https://detectron2.readthedocs.io/en/latest/) |
 |[OpenMMLab](https://github.com/open-mmlab) | - | - |
@@ -132,6 +133,7 @@ A very few amount of interesting projects and some relevant sources.
   - [Understanding Clouds from Satellite Images](https://www.kaggle.com/c/understanding_cloud_organization)
   - [ALASKA2 Image Steganalysis](https://www.kaggle.com/c/alaska2-image-steganalysis)
   - [Cassava Leaf Disease Classification](https://www.kaggle.com/c/cassava-leaf-disease-classification)
+  - [H&M Personalized Fashion Recommendations](https://www.kaggle.com/c/h-and-m-personalized-fashion-recommendations/)
   
   **Detection (CV)**
   - [Tensorflow - Help Protect the Great Barrier Reef](https://www.kaggle.com/c/tensorflow-great-barrier-reef/overview)
@@ -155,6 +157,7 @@ A very few amount of interesting projects and some relevant sources.
   - [Sartorius - Cell Instance Segmentation](https://www.kaggle.com/c/sartorius-cell-instance-segmentation)
   
   **Natural Language Processing**
+  - [Feedback Prize - Evaluating Student Writing](https://www.kaggle.com/c/feedback-prize-2021)
   - [TensorFlow 2.0 Question Answering](https://www.kaggle.com/c/tensorflow2-question-answering)
   - [Google QUEST Q&A Labeling](https://www.kaggle.com/c/google-quest-challenge)
   - [Jigsaw Multilingual Toxic Comment Classification](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification)
@@ -164,6 +167,7 @@ A very few amount of interesting projects and some relevant sources.
   
   **Audio**
     - [Cornell Birdcall Identification](https://www.kaggle.com/c/birdsong-recognition)
+    - [BirdCLEF 2022: Identify bird calls in soundscapes](https://www.kaggle.com/c/birdclef-2022/overview)
   
   **Generative  Adversarial Network**
   - [Generative Dog Images](https://www.kaggle.com/c/generative-dog-images)
