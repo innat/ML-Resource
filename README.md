@@ -90,7 +90,7 @@ A very few amount of interesting projects and some relevant sources.
 | Interested Projects | Research Paper | Explained Blogs |
 |-------|-------|-------|
 |[Detectron2](https://github.com/facebookresearch/detectron2) | [Blog](https://ai.facebook.com/blog/-detectron2-a-pytorch-based-modular-object-detection-library-/) | [Doc](https://detectron2.readthedocs.io/en/latest/) |
-|[MMDetection](https://github.com/open-mmlab/mmdetection) | - | - |
+|[OpenMMLab](https://github.com/open-mmlab) | - | - |
 |[2D Segmentation-PyTorch](https://github.com/qubvel/segmentation_models.pytorch) | - | [Doc](https://smp.readthedocs.io/en/latest/) |
 |[2D Segmentation-Keras](https://github.com/qubvel/segmentation_models) | - | [Doc](https://segmentation-models.readthedocs.io/en/latest/) |
 |**[CAM](https://github.com/metalbubble/CAM)** | [Arxiv](https://arxiv.org/pdf/1512.04150.pdf) | [Doc](http://cnnlocalization.csail.mit.edu/) |
