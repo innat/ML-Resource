@@ -164,6 +164,8 @@ Some open source project to facilitate computer vision task, i.e. classification
   - [Jigsaw Unintended Bias in Toxicity Classification](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification)
   - [Toxic Comment Classification Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)
   - [Tweet Sentiment Extraction](https://www.kaggle.com/c/tweet-sentiment-extraction)
+  - [Feedback Prize - Predicting Effective Arguments](https://www.kaggle.com/competitions/feedback-prize-effectiveness)
+  - [U.S. Patent Phrase to Phrase Matching](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching/overview)
   
   **Audio**
     - [Cornell Birdcall Identification](https://www.kaggle.com/c/birdsong-recognition)
