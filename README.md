@@ -138,8 +138,15 @@ Some open source project to facilitate computer vision task, i.e. classification
   - [H&M Personalized Fashion Recommendations](https://www.kaggle.com/c/h-and-m-personalized-fashion-recommendations/)
   - [Google Universal Image Embedding](https://www.kaggle.com/competitions/google-universal-image-embedding)
   
- **Image Similarity**
-- [Image Matching Challenge](https://www.kaggle.com/competitions/image-matching-challenge-2022)
+  **Image Similarity**
+  - [Image Matching Challenge](https://www.kaggle.com/competitions/image-matching-challenge-2022)
+  - [Google Landmark Retrieval 2018](https://www.kaggle.com/competitions/landmark-retrieval-challenge) 
+  - [Google Landmark Retrieval 2019](https://www.kaggle.com/competitions/landmark-retrieval-2019)
+  - [Google Landmark Retrieval 2020](https://www.kaggle.com/competitions/landmark-retrieval-2020)
+  - [Google Landmark Retrieval 2021](https://www.kaggle.com/competitions/landmark-retrieval-2021)
+  - [Google Landmark Recognition 2019](https://www.kaggle.com/competitions/landmark-recognition-2019)
+  - [Google Landmark Recognition 2020](https://www.kaggle.com/competitions/landmark-recognition-2020)
+  - [Google Landmark Recognition 2021](https://www.kaggle.com/competitions/landmark-recognition-2021)
   
   **Detection (CV)**
   - [Tensorflow - Help Protect the Great Barrier Reef](https://www.kaggle.com/c/tensorflow-great-barrier-reef/overview)
