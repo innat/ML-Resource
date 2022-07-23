@@ -125,8 +125,13 @@ Some open source project to facilitate computer vision task, i.e. classification
   - [HuBMAP - Hacking the Kidney](https://www.kaggle.com/c/hubmap-kidney-segmentation)
   - [SIIM-FISABIO-RSNA COVID-19 Detection](https://www.kaggle.com/c/siim-covid19-detection)
   - [RSNA-MICCAI Brain Tumor Radiogenomic Classification](https://www.kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification/overview)
+  - [HuBMAP + HPA - Hacking the Human Body](https://www.kaggle.com/competitions/hubmap-organ-segmentation)
+  - [UW-Madison GI Tract Image Segmentation](https://www.kaggle.com/competitions/uw-madison-gi-tract-image-segmentation)
   
 - General Competitions 
+
+**Image Similarity**
+- [Image Matching Challenge](https://www.kaggle.com/competitions/image-matching-challenge-2022)
 
   **Classification (CV)**
   - [Bengali.AI Handwritten Grapheme Classification](https://www.kaggle.com/c/bengaliai-cv19)
@@ -134,6 +139,7 @@ Some open source project to facilitate computer vision task, i.e. classification
   - [ALASKA2 Image Steganalysis](https://www.kaggle.com/c/alaska2-image-steganalysis)
   - [Cassava Leaf Disease Classification](https://www.kaggle.com/c/cassava-leaf-disease-classification)
   - [H&M Personalized Fashion Recommendations](https://www.kaggle.com/c/h-and-m-personalized-fashion-recommendations/)
+  - [Google Universal Image Embedding](https://www.kaggle.com/competitions/google-universal-image-embedding)
   
   **Detection (CV)**
   - [Tensorflow - Help Protect the Great Barrier Reef](https://www.kaggle.com/c/tensorflow-great-barrier-reef/overview)
@@ -157,6 +163,7 @@ Some open source project to facilitate computer vision task, i.e. classification
   - [Sartorius - Cell Instance Segmentation](https://www.kaggle.com/c/sartorius-cell-instance-segmentation)
   
   **Natural Language Processing**
+  - [Google AI4Code](https://www.kaggle.com/competitions/AI4Code)
   - [Feedback Prize - Evaluating Student Writing](https://www.kaggle.com/c/feedback-prize-2021)
   - [TensorFlow 2.0 Question Answering](https://www.kaggle.com/c/tensorflow2-question-answering)
   - [Google QUEST Q&A Labeling](https://www.kaggle.com/c/google-quest-challenge)
@@ -166,6 +173,7 @@ Some open source project to facilitate computer vision task, i.e. classification
   - [Tweet Sentiment Extraction](https://www.kaggle.com/c/tweet-sentiment-extraction)
   - [Feedback Prize - Predicting Effective Arguments](https://www.kaggle.com/competitions/feedback-prize-effectiveness)
   - [U.S. Patent Phrase to Phrase Matching](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching/overview)
+  - [Feedback Prize - Predicting Effective Arguments](https://www.kaggle.com/competitions/feedback-prize-effectiveness)
   
   **Audio**
     - [Cornell Birdcall Identification](https://www.kaggle.com/c/birdsong-recognition)
