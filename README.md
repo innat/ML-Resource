@@ -130,9 +130,6 @@ Some open source project to facilitate computer vision task, i.e. classification
   
 - General Competitions 
 
-**Image Similarity**
-- [Image Matching Challenge](https://www.kaggle.com/competitions/image-matching-challenge-2022)
-
   **Classification (CV)**
   - [Bengali.AI Handwritten Grapheme Classification](https://www.kaggle.com/c/bengaliai-cv19)
   - [Understanding Clouds from Satellite Images](https://www.kaggle.com/c/understanding_cloud_organization)
@@ -140,6 +137,9 @@ Some open source project to facilitate computer vision task, i.e. classification
   - [Cassava Leaf Disease Classification](https://www.kaggle.com/c/cassava-leaf-disease-classification)
   - [H&M Personalized Fashion Recommendations](https://www.kaggle.com/c/h-and-m-personalized-fashion-recommendations/)
   - [Google Universal Image Embedding](https://www.kaggle.com/competitions/google-universal-image-embedding)
+  
+ **Image Similarity**
+- [Image Matching Challenge](https://www.kaggle.com/competitions/image-matching-challenge-2022)
   
   **Detection (CV)**
   - [Tensorflow - Help Protect the Great Barrier Reef](https://www.kaggle.com/c/tensorflow-great-barrier-reef/overview)
@@ -165,15 +165,14 @@ Some open source project to facilitate computer vision task, i.e. classification
   **Natural Language Processing**
   - [Google AI4Code](https://www.kaggle.com/competitions/AI4Code)
   - [Feedback Prize - Evaluating Student Writing](https://www.kaggle.com/c/feedback-prize-2021)
+  - [Feedback Prize - Predicting Effective Arguments](https://www.kaggle.com/competitions/feedback-prize-effectiveness)
   - [TensorFlow 2.0 Question Answering](https://www.kaggle.com/c/tensorflow2-question-answering)
   - [Google QUEST Q&A Labeling](https://www.kaggle.com/c/google-quest-challenge)
   - [Jigsaw Multilingual Toxic Comment Classification](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification)
   - [Jigsaw Unintended Bias in Toxicity Classification](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification)
   - [Toxic Comment Classification Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)
   - [Tweet Sentiment Extraction](https://www.kaggle.com/c/tweet-sentiment-extraction)
-  - [Feedback Prize - Predicting Effective Arguments](https://www.kaggle.com/competitions/feedback-prize-effectiveness)
   - [U.S. Patent Phrase to Phrase Matching](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching/overview)
-  - [Feedback Prize - Predicting Effective Arguments](https://www.kaggle.com/competitions/feedback-prize-effectiveness)
   
   **Audio**
     - [Cornell Birdcall Identification](https://www.kaggle.com/c/birdsong-recognition)
