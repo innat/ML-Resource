@@ -144,6 +144,7 @@ Some open source project to facilitate computer vision task, i.e. classification
   - Google Landmark Recognition [2019](https://www.kaggle.com/competitions/landmark-recognition-2019) - [2020](https://www.kaggle.com/competitions/landmark-recognition-2020) - [2021](https://www.kaggle.com/competitions/landmark-recognition-2021)
   
   **Detection (CV)**
+  - [Google AI Open Images - Object Detection Track](https://www.kaggle.com/competitions/google-ai-open-images-object-detection-track)
   - [Tensorflow - Help Protect the Great Barrier Reef](https://www.kaggle.com/c/tensorflow-great-barrier-reef/overview)
   - [Global Wheat Detection](https://www.kaggle.com/c/global-wheat-detection)
   - [Severstal: Steel Defect Detection](https://www.kaggle.com/c/severstal-steel-defect-detection)
