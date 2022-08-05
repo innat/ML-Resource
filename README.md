@@ -143,6 +143,7 @@ Some open source project to facilitate computer vision task, i.e. classification
   - [Image Matching Challenge](https://www.kaggle.com/competitions/image-matching-challenge-2022)
   - Google Landmark Retrieval [2018](https://www.kaggle.com/competitions/landmark-retrieval-challenge) - [2019](https://www.kaggle.com/competitions/landmark-retrieval-2019) - [2020](https://www.kaggle.com/competitions/landmark-retrieval-2020) - [2021](https://www.kaggle.com/competitions/landmark-retrieval-2021)
   - Google Landmark Recognition [2019](https://www.kaggle.com/competitions/landmark-recognition-2019) - [2020](https://www.kaggle.com/competitions/landmark-recognition-2020) - [2021](https://www.kaggle.com/competitions/landmark-recognition-2021)
+  - [FGVC6](https://sites.google.com/view/fgvc6/home?authuser=0)
   
   **Detection (CV)**
   - [Google AI Open Images - Object Detection Track](https://www.kaggle.com/competitions/google-ai-open-images-object-detection-track)
