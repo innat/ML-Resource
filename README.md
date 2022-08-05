@@ -137,9 +137,9 @@ Some open source project to facilitate computer vision task, i.e. classification
   - [ALASKA2 Image Steganalysis](https://www.kaggle.com/c/alaska2-image-steganalysis)
   - [Cassava Leaf Disease Classification](https://www.kaggle.com/c/cassava-leaf-disease-classification)
   - [H&M Personalized Fashion Recommendations](https://www.kaggle.com/c/h-and-m-personalized-fashion-recommendations/)
-  - [Google Universal Image Embedding](https://www.kaggle.com/competitions/google-universal-image-embedding)
   
   **Image Similarity**
+  - [Google Universal Image Embedding](https://www.kaggle.com/competitions/google-universal-image-embedding)
   - [Image Matching Challenge](https://www.kaggle.com/competitions/image-matching-challenge-2022)
   - Google Landmark Retrieval [2018](https://www.kaggle.com/competitions/landmark-retrieval-challenge) - [2019](https://www.kaggle.com/competitions/landmark-retrieval-2019) - [2020](https://www.kaggle.com/competitions/landmark-retrieval-2020) - [2021](https://www.kaggle.com/competitions/landmark-retrieval-2021)
   - Google Landmark Recognition [2019](https://www.kaggle.com/competitions/landmark-recognition-2019) - [2020](https://www.kaggle.com/competitions/landmark-recognition-2020) - [2021](https://www.kaggle.com/competitions/landmark-recognition-2021)
