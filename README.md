@@ -178,6 +178,7 @@ Some open source project to facilitate computer vision task, i.e. classification
   - [Toxic Comment Classification Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)
   - [Tweet Sentiment Extraction](https://www.kaggle.com/c/tweet-sentiment-extraction)
   - [U.S. Patent Phrase to Phrase Matching](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching/overview)
+  - [Zillow Prize](https://www.kaggle.com/competitions/zillow-prize-1/code?competitionId=6649&sortBy=voteCount)
   
   **Audio**
     - [Cornell Birdcall Identification](https://www.kaggle.com/c/birdsong-recognition)
