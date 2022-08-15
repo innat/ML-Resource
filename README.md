@@ -34,57 +34,30 @@ Some of the most influential high rated, resourceful and promising MOOC courses.
 
 **Machine Learning**
    + [ML Crash Course | Google](https://developers.google.com/machine-learning/crash-course)
-   + **[ML | Coursera](https://www.coursera.org/learn/machine-learning/)**
-   + [ML Specialization | Coursera](https://www.coursera.org/specializations/machine-learning) 
-      - ML Foundations: A Case Study Approach - ML: Regression - ML: Classification - ML: Clustering & Retrieval
-   + [Mathematics for ML Specialization | Coursera](https://www.coursera.org/specializations/mathematics-machine-learning?ranMID=40328&ranEAID=vedj0cWlu2Y&ranSiteID=vedj0cWlu2Y-WSA3NztyauBNjsUsiUfg3w&siteID=vedj0cWlu2Y-WSA3NztyauBNjsUsiUfg3w&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=vedj0cWlu2Y)
-      - Mathematics for ML: Linear Algebra - Mathematics for ML: Multivariate Calculus - Mathematics for ML: PCA
-   + [Advanced Machine Learning with TensorFlow on Google Cloud Platform Specialization | Coursera](https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp)
-      - End-to-End ML with TensorFlow on GCP - Production ML Systems - Image Understanding with TensorFlow on GCP - Sequence Models for Time Series and NLP
-   + [Applying ML to your Data with GCP | Coursera](https://www.coursera.org/learn/data-insights-gcp-apply-ml)
-   + [ML Fundamentals | edX](https://www.edx.org/course/machine-learning-fundamentals-4)
-   + [Intro to ML | Udacity](https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229?cjevent=50ab2edde60811e98252008a0a18050d)
-   + [ML A-Z™ | Udemy](https://www.udemy.com/course/machinelearning/)
-   + **[ML with Javascript | Udemy](https://www.udemy.com/course/machine-learning-with-javascript/)**
+   + [ML Specialization | Coursera](https://www.coursera.org/specializations/machine-learning-introduction) 
+   + [ML with Javascript | Udemy](https://www.udemy.com/course/machine-learning-with-javascript/)
    
 **Deep Learning**
-   + [UFLDL Tutorial](http://ufldl.stanford.edu/tutorial/)
-   + [Stanford Teaching](https://nlp.stanford.edu/teaching/)
-   + [Stanford CS | CNN for Visual Recognition](https://cs231n.github.io/)
-   + [Stanford CS | NLP with Deep Learning](http://web.stanford.edu/class/cs224n/index.html)
+   + [UFLDL Tutorial](http://ufldl.stanford.edu/tutorial/) | [Stanford Teaching](https://nlp.stanford.edu/teaching/) | [Stanford CS | CNN for Visual Recognition](https://cs231n.github.io/) | [Stanford CS | NLP with Deep Learning](http://web.stanford.edu/class/cs224n/index.html)
    + **[Deep Learning Specialization | Coursera](https://www.coursera.org/specializations/deep-learning)**
-      - Neural Networks and Deep Learning - Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization -Structuring Machine Learning Projects - Convolutional Neural Networks - Sequence Models
-   + [Deep Learning | Udacity](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
-   + [Deep Learning A-Z™ | Udemy](https://www.udemy.com/course/deeplearning/)
    + [Complete Guide to TensorFlow for Deep Learning with Python | Udemy](https://www.udemy.com/course/complete-guide-to-tensorflow-for-deep-learning-with-python/)
-   + [NLP - Natural Language Processing with Python | Udemy](https://www.udemy.com/course/nlp-natural-language-processing-with-python/)
    + [Python for Computer Vision with OpenCV and Deep Learning | Udemy](https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/)
    + **[Deep Learning Computer Vision™ CNN, OpenCV, YOLO, SSD & GANs | Udemy](https://www.udemy.com/course/master-deep-learning-computer-visiontm-cnn-ssd-yolo-gans/)**
-   + [TensorFlow 2.0 | Udemy](https://www.udemy.com/course/tensorflow-2/)
-   
+
 **Data Science**
    + [Python for Data Science | edX](https://www.edx.org/course/python-for-data-science-3)
    + [Big Data Specialization | Coursera](https://www.coursera.org/specializations/big-data)
-      - Introduction to Big Data - Big Data Modeling and Management Systems - Big Data Integration and Processing - ML With Big Data - Graph Analytics for Big Data - Big Data - Capstone Project
-   + **[Data Engineering, Big Data, and ML on GCP Specialization | Coursera](https://www.coursera.org/specializations/gcp-data-machine-learning)**
-      - Google Cloud Platform Big Data and Machine Learning Fundamentals - Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform - Serverless Data Analysis with Google BigQuery and Cloud Dataflow - Serverless Machine Learning with Tensorflow on Google Cloud Platform - Building Resilient Streaming Systems on Google Cloud Platform
-   + [Modern Big Data Analysis with SQL Specialization | Coursera](https://www.coursera.org/specializations/cloudera-big-data-analysis-sql)
-      - Foundations for Big Data Analysis with SQL - Analyzing Big Data with SQL - Managing Big Data in Clusters and Cloud Storage
    + [Python for Data Science and Machine Learning Bootcamp | Udemy](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) 
    + [Spark and Python for Big Data with PySpark | Udemy](https://www.udemy.com/course/spark-and-python-for-big-data-with-pyspark/)
-   + [Scala and Spark for Big Data and Machine Learning | Udemy](https://www.udemy.com/course/scala-and-spark-for-big-data-and-machine-learning/)
 
 ## Research Databases
 Some enrich online research databases.
 - [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
-- [ArXiv | CS](https://arxiv.org/search/cs)
-- [FB Research](https://research.fb.com/publications/)
-- [Apple Machine Learning Journal](https://machinelearning.apple.com/)
-- [Google AI](https://ai.google/research/pubs/)
+- [FB Research](https://research.fb.com/publications/) | [Apple Machine Learning Journal](https://machinelearning.apple.com/) | [Google AI](https://ai.google/research/pubs/) | [Open AI](https://openai.com/)
 - **[Distill](https://distill.pub/)**
 - **[PaperWithCode](https://paperswithcode.com/)**
 
-## GitHub 
+## GitHub (WIP)
 
 Some open source project to facilitate computer vision task, i.e. classification, detection, semanctic / instance / panoptic segmentation, object tracking, keypoint detection, optical character recognition, etc. 
 
