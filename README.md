@@ -168,6 +168,7 @@ Some open source project to facilitate computer vision task, i.e. classification
 Very few amount of amazing blogs.
 
 - [Google AI Blog](https://ai.googleblog.com/)
+- [TensorFlow Blog](https://blog.tensorflow.org/)
 - [Facebook AI](https://ai.facebook.com/)
 - [Berkeley AI Research](https://bair.berkeley.edu/blog/)
 - **[Depth First Learning](http://www.depthfirstlearning.com/)**
