@@ -68,7 +68,7 @@ Some open source project to facilitate computer vision task, i.e. classification
 |[2D Segmentation-PyTorch](https://github.com/qubvel/segmentation_models.pytorch) | - | [Doc](https://smp.readthedocs.io/en/latest/) |
 |[2D Segmentation-Keras](https://github.com/qubvel/segmentation_models) | - | [Doc](https://segmentation-models.readthedocs.io/en/latest/) |
 |**[CAM](https://github.com/metalbubble/CAM)** | [Arxiv](https://arxiv.org/pdf/1512.04150.pdf) | [Doc](http://cnnlocalization.csail.mit.edu/) |
-|**[Sketch Code](https://github.com/ashnkumar/sketch-code)** | - | [Doc](https://blog.insightdatascience.com/automated-front-end-development-using-deep-learning-3169dd086e82) |
+|**[PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)** | - | - |
 | - | - | - | 
 |<ul><li>[ETH VIZ](https://www.vis.xyz/)</li><li>[ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)</li><li>[Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)</li><li>[Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)</li></ul> | <ul><li>[Awesome Python](https://github.com/vinta/awesome-python#readme)</li><li>[Awesome C++](https://github.com/fffaraz/awesome-cpp#readme)</li><li>[Awesome JavaScript](https://github.com/sorrycc/awesome-javascript#readme)</li><li>[Awesome Scala](https://github.com/lauris/awesome-scala#readme)</li></ul> | <ul><li>[Algorithm Visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)</li><li>[Algovis](https://github.com/enjalot/algovis)</li><li>[Awesome TF-Lite](https://github.com/margaretmz/awesome-tensorflow-lite)</li></ul> |
 
