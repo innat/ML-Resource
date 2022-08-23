@@ -104,7 +104,7 @@ Some open source project to facilitate computer vision task, i.e. classification
   
 - General Competitions 
 
-  **Classification (CV)**
+  **Classification (Image)**
   - [Bengali.AI Handwritten Grapheme Classification](https://www.kaggle.com/c/bengaliai-cv19)
   - [Understanding Clouds from Satellite Images](https://www.kaggle.com/c/understanding_cloud_organization)
   - [ALASKA2 Image Steganalysis](https://www.kaggle.com/c/alaska2-image-steganalysis)
@@ -125,9 +125,10 @@ Some open source project to facilitate computer vision task, i.e. classification
   - [Severstal: Steel Defect Detection](https://www.kaggle.com/c/severstal-steel-defect-detection)
   - [Deepfake Detection Challenge](https://www.kaggle.com/c/deepfake-detection-challenge)
   - [Humpback Whale Identification](https://www.kaggle.com/c/humpback-whale-identification/overview)
-  - [Lyft 3D Object Detection for Autonomous Vehicles](https://www.kaggle.com/c/3d-object-detection-for-autonomous-vehicles)
   - [NFL 1st and Future - Impact Detection](https://www.kaggle.com/c/nfl-impact-detection)
   - [Lyft Motion Prediction for Autonomous Vehicles](https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles)
+  - [Lyft 3D Object Detection for Autonomous Vehicles](https://www.kaggle.com/c/3d-object-detection-for-autonomous-vehicles)
+  - [Peking University/Baidu - Autonomous Driving](https://www.kaggle.com/c/pku-autonomous-driving)
   
   **Segmentation (CV)**
   - [Airbus Ship Detection Challenge](https://www.kaggle.com/c/airbus-ship-detection/overview)
