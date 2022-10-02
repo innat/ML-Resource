@@ -202,6 +202,7 @@ Very few amount of amazing blogs.
 
 
 ## YouTube Star
+- [DSA | mycodeschool](https://www.youtube.com/user/mycodeschool)
 - [Arxiv Insights](https://www.youtube.com/c/ArxivInsights)
 - [Welch Labs](https://www.youtube.com/c/WelchLabsVideo/featured)
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) 
