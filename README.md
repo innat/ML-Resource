@@ -158,9 +158,13 @@ Some open source project to facilitate computer vision task, i.e. classification
     - [Cornell Birdcall Identification](https://www.kaggle.com/c/birdsong-recognition)
     - [BirdCLEF 2022: Identify bird calls in soundscapes](https://www.kaggle.com/c/birdclef-2022/overview)
   
-  **Generative  Adversarial Network**
+  **Generative  AI**
   - [Generative Dog Images](https://www.kaggle.com/c/generative-dog-images)
-  
+  - [Stable Diffusion - Image to Prompts](https://www.kaggle.com/competitions/stable-diffusion-image-to-prompts)
+
+**Time Series**
+- [OTTO – Multi-Objective Recommender System](https://www.kaggle.com/competitions/otto-recommender-system/)
+
   **Special**
   - [Abstraction and Reasoning Challenge](https://www.kaggle.com/c/abstraction-and-reasoning-challenge)
 
