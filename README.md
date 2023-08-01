@@ -197,7 +197,7 @@ Very few amount of amazing blogs.
 - [Open Source](#best-blog)
    + [Facebook Opens Source](https://opensource.facebook.com/)
    + [Google Open Source](https://opensource.google/)
-
+- [Annotated PyTorch Paper Implementations](https://nn.labml.ai/)
 
 ## Conferences
 - [CVPR - IEEE Conference on Computer Vision and Pattern Recognition](http://cvpr2018.thecvf.com/)
