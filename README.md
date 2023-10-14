@@ -1,5 +1,8 @@
 ![dancing_drogon](https://user-images.githubusercontent.com/17668390/110049208-9ccc0d80-7d7b-11eb-855f-10116ea07661.gif)
 
+[![Palestine](https://img.shields.io/badge/Free-Palestine-white?labelColor=green)](https://twitter.com/search?q=%23FreePalestine&src=typed_query)
+
+
 A concise resource repository for machine learning. Here, It'll remain concise but yet to comprehensive for machine learning resources and related stuff. It'll be updated continually with times. 
 
 ## Table of Contents
