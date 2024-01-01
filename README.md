@@ -39,6 +39,7 @@ Some of the most influential high rated, resourceful and promising MOOC courses.
    + [ML Crash Course | Google](https://developers.google.com/machine-learning/crash-course)
    + [ML Specialization | Coursera](https://www.coursera.org/specializations/machine-learning-introduction) 
    + [ML with Javascript | Udemy](https://www.udemy.com/course/machine-learning-with-javascript/)
+   + [Google Machine Learning Education](https://developers.google.com/machine-learning)
    
 **Deep Learning**
    + [UFLDL Tutorial](http://ufldl.stanford.edu/tutorial/) | [Stanford Teaching](https://nlp.stanford.edu/teaching/) | [Stanford CS | CNN for Visual Recognition](https://cs231n.github.io/) | [Stanford CS | NLP with Deep Learning](http://web.stanford.edu/class/cs224n/index.html)
