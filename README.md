@@ -179,6 +179,7 @@ Some open source project to facilitate computer vision task, i.e. classification
 ## Best Blog 
 Very few amount of amazing blogs.
 
+- [OpenAI](https://openai.com/research)
 - [Fast-AI](https://www.fast.ai/)
 - [Google AI Blog](https://ai.googleblog.com/)
 - [TensorFlow Blog](https://blog.tensorflow.org/)
